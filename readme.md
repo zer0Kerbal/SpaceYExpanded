@@ -1,26 +1,29 @@
 # Fuel Tanks Plus
 
-NecroBones
-
-NOTE: KSP 1.4 is required for FTP 2.0.0 or later.
+by NecroBones
 
 Parts Pack
 
-What is "Fuel Tanks Plus" exactly? Simply, it's a set of fuel tanks that are 1.5x the length of the largest stock tanks in each diameter, plus fuel-filled nose cones for those diameters. These tanks are meant to give you some visual choice of styles that are loosely inspired by real-world rockets from NASA, ESA, and private space firms (though that inspiration is mainly in color choice), while maintaining the style established in the Color Coded Canisters mod (since CCC replaces stock visuals, any "new" tanks should be spun off into a separate pack, and hence we have FTP).
+# SpaceY Expanded
 
-### Cooperates with other mods:
+An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires both Module Manager, and SpaceY Heavy Lifters to be installed as dependencies.**
 
-- TweakScale
-- FAR/NEAR
-- AVC (Add-on Version Checker)
-- Deadly Reentry
-- Modular Fuel Tanks
-- Interstellar Fuel Switch
+Adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters.
 
-### REQUIRED Dependencies: (version 1.0+)
+**Cooperates with other mods:**
 
-- ModuleManager
-(for FTP versions prior to 2.0.0): Interstellar Fuel Switch (Core-only is OK). (Firespitter will also work)
+- [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234)
+- [FAR / NEAR](http://forum.kerbalspaceprogram.com/threads/86419)
+- [AVC](http://forum.kerbalspaceprogram.com/threads/79745) (Add-on Version Checker)
+- [Engine Ignitor](http://forum.kerbalspaceprogram.com/threads/51880)
+- [Community Tech Tree](http://forum.kerbalspaceprogram.com/threads/100385)
+- [HotRockets](http://forum.kerbalspaceprogram.com/threads/65754)
+- [CryoEngines](http://forum.kerbalspaceprogram.com/threads/117766)
+- [Connected Living Space](http://forum.kerbalspaceprogram.com/threads/122126)
+
+**Image Gallery:**
+
+[[https://imgur.com/a/fOIMg]]	Large rocketry parts, particularly 7.5m diameter, and accessories.
 
 
 ### Part of the NecroBones suite of mods, that work nicely together:
@@ -48,11 +51,6 @@ Disclaimer 1: Note that the stats, appearances, and descriptions of the parts sh
 
 Disclaimer 2: The "Delta IV Heavy" shown in some screenshots below includes parts from several other mods.
 
-<a width="1024" height="601" src="https://www.youtube.com/embed/wuxzfhtiCgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></a>
-
-![](https://youtu.be/bWo2u1lKdaY)
-
-![image](https://user-images.githubusercontent.com/39887717/149592948-45b64475-d923-4c3b-b0f8-eec4502c82c5.png)
 
 Creative Commons 4.0 Attribution-NonCommercial-ShareAlike
 
