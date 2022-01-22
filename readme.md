@@ -1,10 +1,8 @@
-# Fuel Tanks Plus
+# SpaceY Expanded
 
 by NecroBones
 
 Parts Pack
-
-# SpaceY Expanded
 
 An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires both Module Manager, and SpaceY Heavy Lifters to be installed as dependencies.**
 
