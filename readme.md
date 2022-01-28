@@ -1,4 +1,4 @@
-# SpaceY Expanded
+# SpaceY Expanded (SYE)
 
 by NecroBones
 
