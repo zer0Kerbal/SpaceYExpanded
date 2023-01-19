@@ -34,6 +34,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #38 - 1.4.0.0-release - `<KSP 1.4 update>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -44,6 +45,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #38 - 1.4.0.0-release - `<KSP 1.4 update>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -60,6 +62,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #37 - 1.3.1.0-release - `<Clean-up>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -80,6 +83,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #36 - 1.3.0.0-release - `<Update>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -98,6 +102,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #35 - 1.2.0.0-release - `<Update & KSP 1.2 compatibility>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -148,6 +153,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #34 - 1.1.9.0-release - `<Tweaks>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -166,6 +172,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #33 - 1.1.8.0-release - `<Tweaks>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -183,6 +190,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #32 - 1.1.7.0-release - `<Career fixes>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -200,6 +208,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #31 - 1.1.6.0-release - `<KSP 1.1 Update>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -215,6 +224,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #30 - 1.1.5.0-release - `<Tweaks>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -230,6 +240,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #29 - 1.1.4.0-release - `<Tweaks>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -245,6 +256,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #28 - 1.1.3.0-release - `<Fixes>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -260,6 +272,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #27 - 1.1.2.0-release - `<Fixes>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -276,6 +289,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #24 - 1.1.1.0-release - `<Fixes>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -294,6 +308,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #23 - 1.1.0.0-release - `<Texture Compatibility>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -320,6 +335,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #22 - 1.0.0.0-release - `<Stable>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -340,6 +356,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #21 - 0.9.0.0-release - `<KSP 1.0.5 update>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -358,6 +375,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #20 - 0.8.0.0-release - `<Beta, engine updates>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -375,6 +393,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #19 - 0.7.0.0-release - `<Beta>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -394,6 +413,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #18 - 0.6.1.0-release - `<Tweaks>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -414,6 +434,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #17 - 0.6.0.0-release - `<Beta>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -430,6 +451,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #16 - 0.5.1.0-release - `<Beta>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -447,6 +469,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #15 - 0.5.0.0-release - `<Beta>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -464,6 +487,8 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #14 - 0.4.0.0-release - `<Alpha/Beta>`
+  * updates #71 - [BUG] from archival releases
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -480,6 +505,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #13 - 0.3.0.0-release - `<Alpha/Beta>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -502,6 +528,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #12 - 0.2.0.0-release - `<Alpha/Beta>`
+  * updates #71 - [BUG] from archival releases
 
 ---
 
@@ -517,5 +544,6 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #7 - Archival Releases
   * closes #11 - 0.1.0.0-release - `<Initial Alpha test version>`
+  * updates #71 - [BUG] from archival releases
 
 ---
