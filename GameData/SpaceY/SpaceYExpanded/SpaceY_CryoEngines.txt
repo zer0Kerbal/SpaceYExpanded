@@ -1,0 +1,17 @@
+// This one is here to prevent duplication of the same settings:
+
+@PART[SYengine?mP?]:FOR[SpaceY-Expanded]:NEEDS[CryoEngines] // Penguins
+{
+	@MODULE[ModuleEngines]
+	{
+		!atmosphereCurve {}
+		atmosphereCurve
+		{
+			key = 0 360
+			key = 1 200
+			key = 6 0.001
+		}
+	}
+}
+
+// Additional configs are in individual engine CFGs, since they have engine specific stats.
