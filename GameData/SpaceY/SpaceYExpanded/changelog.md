@@ -393,7 +393,7 @@
 * Added MM config for Penguin engines to detect CryoEngines and make the following tweaks:
   * Reduces Liquid-Fuel ISP to 360.
   * Adds mode switching, with alternate Liquid-Hydrogen mode, with slightly better ISP but slightly worse thrust.
-* Added a minuscule gimbal range to Penguin engines (previously they were non-vectoring). 
+* Added a minuscule gimbal range to Penguin engines (previously they were non-vectoring).
 * Significantly increased connection breaking strength on most parts (including all 7.5m parts).
 
 ### Status 0.6.0.0
