@@ -16,7 +16,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires SpaceY Corp (SYC), SpaceY Lifters (SYL), and Module Manager to be installed as dependencies.**
+An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires SpaceY Corp (SYC), SpaceY Expanded (SYE), and Module Manager to be installed as dependencies.**
 
 Adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters.
 
@@ -56,7 +56,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
     + [SpaceY]
       + [SpaceY Corporation (SYC)][SYC]
         ...
-      + [SpaceYLifters][SYL]
+      + [SpaceYExpanded][SYL]
         ...
       + [SpaceYExpanded][SYE]
         + [Compatibility]
@@ -88,12 +88,12 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ### Dependencies
 
 * [SpaceY Corporation (SYC)][SYC]
-* [SpaceY Lifters (SYL)][SYL]
+* [SpaceY Expanded (SYE)][SYL]
 * either
   * [Module Manager /L][mml]
   * [Module Manager][mm]
 
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209446-*/ "SpaceY Corporation (SYC)"
-[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Lifters (SYL)"
+[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYE)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
