@@ -7,7 +7,7 @@ PART
 	/ --- asset parameters ---
 	MODEL
 	{
-		model = SpaceY/SpaceYExpanded/Parts/Control/SYvernier1
+		model = SpaceY-Expanded/Parts/Control/SYvernier1
 		scale = 1.0, 1.0, 1.0
 	}
 	scale = 1.0
