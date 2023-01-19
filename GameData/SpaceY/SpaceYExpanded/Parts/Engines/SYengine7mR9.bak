@@ -10,7 +10,7 @@ author = NecroBones
 
 MODEL
 {
-	model = SpaceY-Expanded/Parts/Engines/SYengine7mR9
+	model = SpaceY/SpaceYExpanded/Parts/Engines/SYengine7mR9
 	texture = SYengine5mR5-Emissive, SpaceY-Lifters/Parts/Engines/SYengine5mR5-Emissive
 	texture = SYengine5mR5-Specular, SpaceY-Lifters/Parts/Engines/SYengine5mR5-Specular
 	scale = 1.0, 1.0, 1.0
