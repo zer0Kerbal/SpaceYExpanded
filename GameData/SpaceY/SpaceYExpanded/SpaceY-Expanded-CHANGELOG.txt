@@ -1,3 +1,17 @@
+1.0 (2015-12-17) - Stable.
+ - Let's call this the 1.0 release. Things have been pretty stable lately.
+ - Added "SpaceY_ATM.cfg" with settings to attempt to disable or dissuade ActiveTextureManagement for this mod.
+    - Can optionally be deleted to return to ATM defaults.
+    - ATM known to occasionally have caching issues with remapped/shared textures in my mods.
+    - SpaceY is already very memory efficient and uses DDS, so ATM doesn't help much for this case.
+    - May need to delete ATM's cache if using ATM and some textures still aren't appearing.
+ - Updated 7.5m stack decoupler:
+    - Ejection charge reduced by half (to 500, down from 1000).
+    - Added built-in "sepratron" solid propellant separator motors.
+    - Research cost increased slightly.
+ - Replaced "placeholder" textures. Smaller, and more obvious when texture reassignment has failed.
+ - Corrected a texture assignment problem on the 7.5m E2 engine.
+
 0.9 (2015-11-11) - KSP 1.0.5 update.
  - Corrected the display-name of the "Gigantic Structure" tech node, instead of displaying it as a second "Massive Structure" node.
  - Diameters added to 7.5m fuel tank names, for easy identification in VAB menu.
