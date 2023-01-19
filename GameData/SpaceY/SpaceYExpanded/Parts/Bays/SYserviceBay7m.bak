@@ -1,0 +1,87 @@
+PART
+{
+	name = SYserviceBay7m
+	module = Part
+	author = NecroBones
+
+	MODEL
+	{
+		model = SpaceY-Expanded/Parts/Bays/SYserviceBay7m
+		texture = SYplate3m1m-Specular, SpaceY-Lifters/Parts/ThrustPlates/SYplate3m1m-Specular
+		texture = SYadapter7m-Specular, SpaceY-Expanded/Parts/Adapters/SYadapter7m-Specular
+	}
+	
+	rescaleFactor = 1.0
+	scale = 1.0	
+
+	node_stack_top2 = 0.0, 1.053, 0.0, 0.0, -1.0, 0.0, 1
+	node_stack_bottom2 = 0.0, -1.053, 0.0, 0.0, 1.0, 0.0, 1
+
+	node_stack_bottom = 0.0, -1.2, 0.0, 0.0, -1.0, 0.0, 5
+	node_stack_top = 0.0, 1.2, 0.0, 0.0, 1.0, 0.0, 5
+
+	TechRequired = metaMaterials
+	entryCost = 18000
+	cost = 9500
+	category = Utility
+	subcategory = 0
+	title = SpaceY SB7 Service Bay (7.5m)
+	manufacturer = SpaceY Technologies Corporation
+	description = A storage bay for equipment, propellants, instruments, or even entire rovers. 
+	attachRules = 1,0,1,1,0
+
+	mass = 2.5
+	dragModelType = default
+	maximum_drag = 0.2
+	minimum_drag = 0.3
+	angularDrag = 2
+	crashTolerance = 14
+	bulkheadProfiles = size5
+	maxTemp = 2900
+	heatConductivity = 0.04
+	thermalMassModifier = 5.0 
+	emissiveConstant = 0.95
+	
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		animationName = doors
+		actionGUIName = Toggle
+		startEventGUIName = Open
+		endEventGUIName = Close
+		allowAnimationWhileShielded = False
+	}
+
+	MODULE
+	{
+		name = ModuleCargoBay
+		DeployModuleIndex = 0
+		closedPosition = 0
+		lookupRadius = 4.25
+		
+		//nodeOuterForeID = top
+		//nodeOuterAftID = bottom
+	}	
+	MODULE
+	{
+		name = ModuleSeeThroughObject
+		transformName = SYdoorTransform
+		shaderName = KSP/Bumped Specular (Transparent)
+		screenRadius = 3.0
+		leadModuleIndex = 0
+		leadModuleTgtValue = 0
+	}
+
+	MODULE
+	{
+		name = FlagDecal
+		textureQuadName = flagDecal
+	}
+
+	MODULE
+	{
+		name = ModuleConductionMultiplier
+		modifiedConductionFactor = 0.001
+		convectionFluxThreshold = 500
+	}
+}
