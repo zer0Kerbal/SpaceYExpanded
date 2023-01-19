@@ -9,8 +9,8 @@ PART
 	// --- asset parameters ---
 	MODEL
 	{
-		model = SpaceY-Expanded/Parts/Etc/SYfairing7m
-		texture = SYtank7m-Specular, SpaceY-Expanded/Parts/FuelTanks/SYtank7m-Specular
+		model = SpaceY/SpaceYExpanded/Parts/Etc/SYfairing7m
+		texture = SYtank7m-Specular, SpaceY/SpaceYExpanded/Parts/FuelTanks/SYtank7m-Specular
 		scale = 1.0, 1.0, 1.0
 	}
 	scale = 1.0
