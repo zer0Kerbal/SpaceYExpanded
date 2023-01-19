@@ -1,3 +1,11 @@
+0.9 (2015-11-11) - KSP 1.0.5 update.
+ - Corrected the display-name of the "Gigantic Structure" tech node, instead of displaying it as a second "Massive Structure" node.
+ - Diameters added to 7.5m fuel tank names, for easy identification in VAB menu.
+ - Updated heat shield to current stock ablator settings and contract constraints. Slightly increased ablator quantity.
+ - Updated all engines to use FXModuleAnimateThrottle for heat animation.
+ - Engines, fairings, decouplers/separators updated to use new stock-alike thermal settings and contract constraints.
+ - Lightened the color and "grain" of the white texture on fuel tanks (will also affect 5m tanks).
+
 0.8 (2015-10-16) - Beta, engine updates.
  - Adjusted R9 engine HotRockets config to correspond to SpaceY Lifters' fixes (as of Lifters v1.3).
  - R9 engine now uses custom default engine effects from SpaceY Lifters (requires Lifters v1.3+).
