@@ -1,4 +1,9 @@
-1.1.6 (2016-3-31) - KSP 1.1 Update.
+1.1.7 (2016-04-17) - Career fixes.
+ - Drastically reduced career prices for fuel tanks, to bring them into line with stock again.
+ - Adjusted career prices of E1,E2,E4,R9 engines, to bring them into line with stock again.
+ - Increased prices on Penguin (P-series) engines.
+
+1.1.6 (2016-03-31) - KSP 1.1 Update.
  - Moved ModuleManager patches to "Patches" folder.
  - Added tags for part searches.
  - Updated ModuleManager inclusion.
