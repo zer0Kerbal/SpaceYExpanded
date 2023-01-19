@@ -1,0 +1,71 @@
+PART
+{
+name = SYtank7m5mAdapter
+module = Part
+author = NecroBones
+
+MODEL
+{
+	model = SpaceY/SpaceYExpanded/Parts/FuelTanks/SYtank7m5mAdapter
+	texture = SYtank5mShroud-Specular, SpaceY-Lifters/Parts/FuelTanks/SYtank5mShroud-Specular
+	texture = SYtank5m-Specular, SpaceY-Lifters/Parts/FuelTanks/SYtank5m-Specular
+	scale = 1.0, 1.0, 1.0
+}
+
+scale = 1.0
+rescaleFactor = 1
+
+node_stack_top = 0.0, 2.75, 0.0, 0.0, 1.0, 0.0, 4
+node_stack_bottom = 0.0, -2.75, 0.0, 0.0, -1.0, 0.0, 5
+
+
+TechRequired = highPerformanceFuelSystems
+entryCost = 30000
+cost = 25200
+category = FuelTank
+subcategory = 0
+title = SpaceY F12A7-5 Fuel Tank Adapter
+manufacturer = SpaceY Technologies Corporation
+description = The engineers at Spacey Technologies have always wondered why these large conical adapter parts are usually empty. Our solution is to fill it with fuel!
+attachRules = 1,0,1,1,0
+
+mass = 7.775
+dragModelType = default
+maximum_drag = 0.2
+minimum_drag = 0.3
+angularDrag = 2
+crashTolerance = 6
+maxTemp = 2100
+bulkheadProfiles = size5, size4
+
+breakingForce = 22000
+breakingTorque = 22000
+
+
+RESOURCE
+{
+ name = LiquidFuel
+ amount = 5670
+ maxAmount = 5670
+}
+
+RESOURCE
+{
+ name = Oxidizer
+ amount = 6930
+ maxAmount = 6930
+}
+
+MODULE
+{
+       name = ModuleJettison
+       jettisonName = tank5mshroudTop
+       bottomNodeName = top
+       isFairing = True
+       jettisonedObjectMass = 0.5
+       jettisonForce = 15
+       jettisonDirection = 0 0 1
+	
+}
+
+}
