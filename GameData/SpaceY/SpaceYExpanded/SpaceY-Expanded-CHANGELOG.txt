@@ -1,3 +1,8 @@
+0.7 (2015-10-09) - Beta.
+ - Corrected the cross-section profile on several parts (mainly Emu engines and decoupler/separators).
+ - Fuel tanks now have multiple paint schemes, selectable if InterstellarFuelSwitch or Firespitter are installed.
+    - Known issue: Will have nasty z-fighting with all paint schemes at once, if something tricks ModuleManager about Interstelar/Firespitter installed state. Might have to delete ModuleManager config cache.
+
 0.6.1 (2015-10-02) - Tweaks.
  - Moved some engine mod-support to their own MM config files:
     - CryoEngines
