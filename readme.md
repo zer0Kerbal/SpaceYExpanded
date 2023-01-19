@@ -150,7 +150,7 @@ parts, config
 ### Credits and Special Thanks
 
 * [NecroBones][necrobones] for creating this glorious parts addon!
-* see [Attributions][attrb] for more comprehensive list
+* see [Attributions][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -240,7 +240,6 @@ parts, config
 [PM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207261-*/ "Precise Maneuver (PM)"
 [SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! (SCON)"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
-Facility (FTF)"
 
 [BURG]: https://www.curseforge.com/kerbal/ksp-mods/burgermod "The Burger Mod (BURG)"
 [CCC]: https://www.curseforge.com/kerbal/ksp-mods/colorcodedcanisters "Color Coded Canisters (CCC)"
