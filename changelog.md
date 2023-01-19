@@ -470,7 +470,7 @@
 
 ---
 
-## Version 0.2.0.0 - Alpha/Bet
+## Version 0.2.0.0 - Alpha/Beta
 
 * 04 Sep 2015
 * Released for Kerbal Space Program 1.0.4
@@ -488,7 +488,7 @@
 
 * Issues
   * updates #7 - Archival Releases
-  * closes #12 - 0.2.0.0-release - `<Alpha/Bet>`
+  * closes #12 - 0.2.0.0-release - `<Alpha/Beta>`
 
 ---
 
