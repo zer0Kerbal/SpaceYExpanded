@@ -1,3 +1,8 @@
+1.1.6 (2016-3-31) - KSP 1.1 Update.
+ - Moved ModuleManager patches to "Patches" folder.
+ - Added tags for part searches.
+ - Updated ModuleManager inclusion.
+
 1.1.5 (2016-01-29) - Tweaks.
  - Updated the CryoEngines config to be consistent with its new propellant ratio.
 
