@@ -1,0 +1,24 @@
+@PART[SYengine7mR9]:FOR[SpaceY-Expanded]
+{
+	@EFFECTS
+	{
+		@running_full
+		{
+			@AUDIO
+			{
+				@clip = SpaceY-Lifters/Sounds/srb_heavy_loop // sound_rocket_spurts
+			}
+		}
+		@engage
+		{
+			@AUDIO
+			{
+				@clip = SpaceY-Lifters/Sounds/sls_start // sound_vent_soft
+			}
+		}
+	}
+}
+
+
+
+
