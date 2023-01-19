@@ -1,3 +1,9 @@
+0.8 (2015-10-16) - Beta, engine updates.
+ - Adjusted R9 engine HotRockets config to correspond to SpaceY Lifters' fixes (as of Lifters v1.3).
+ - R9 engine now uses custom default engine effects from SpaceY Lifters (requires Lifters v1.3+).
+ - R9 engine now uses new engine bell art assets from SpaceY Lifters 1.3+.
+ - New default custom particle effects for LFO engines (E,P series).
+
 0.7 (2015-10-09) - Beta.
  - Corrected the cross-section profile on several parts (mainly Emu engines and decoupler/separators).
  - Fuel tanks now have multiple paint schemes, selectable if InterstellarFuelSwitch or Firespitter are installed.
