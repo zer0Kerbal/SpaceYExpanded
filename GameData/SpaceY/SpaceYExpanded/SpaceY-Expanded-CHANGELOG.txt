@@ -1,3 +1,7 @@
+1.1.1 (2016-01-02) - Fixes.
+ - Included ModuleManager version updated with its 2.6.16 bugfix update.
+ - Added a "needs" condition for TweakScale patches.
+
 1.1 (2015-12-31) - Texture Compatibility.
  - Removed 7.5m fuel tank texture, since it was moved to SpaceY Lifters.
     - Repointed all necessary texture assignments to the new location.
