@@ -76,7 +76,7 @@ PART
 		}
 		atmosphereCurve
 		{
-			key = 0 380
+			key = 0 390
 			key = 1 200
 			key = 6 0.001
 		}
