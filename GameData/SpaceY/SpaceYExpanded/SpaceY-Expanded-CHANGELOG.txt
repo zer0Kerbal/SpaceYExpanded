@@ -1,3 +1,6 @@
+1.1.2 (2016-01-02) - Fixes.
+ - CryoEngines fix: The Penguin engines should no longer run more than one engine mode at once.
+
 1.1.1 (2016-01-02) - Fixes.
  - Included ModuleManager version updated with its 2.6.16 bugfix update.
  - Added a "needs" condition for TweakScale patches.
