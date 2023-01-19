@@ -1,3 +1,9 @@
+1.1 (2015-12-31) - Texture Compatibility.
+ - Removed 7.5m fuel tank texture, since it was moved to SpaceY Lifters.
+    - Repointed all necessary texture assignments to the new location.
+    - Adjusted UV-mapping of 5m texture as needed to corrospond to changes in Lifters.
+ - Changed "ModularFuelTanks" config to also apply if RealFuels is installed.
+
 1.0 (2015-12-17) - Stable.
  - Let's call this the 1.0 release. Things have been pretty stable lately.
  - Added "SpaceY_ATM.cfg" with settings to attempt to disable or dissuade ActiveTextureManagement for this mod.
