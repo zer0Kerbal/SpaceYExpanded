@@ -1,0 +1,45 @@
+0.6.1 (2015-10-02) - Tweaks.
+ - Moved some engine mod-support to their own MM config files:
+    - CryoEngines
+    - EngineIgnitor
+ - Adjusted the Penguin engines' CryoEngines-triggered ISPs upward for both fuel modes.
+ - Added 7.5m stack separator.
+
+0.6 (2015-10-01) - Beta.
+ - Adjusted P-series (Penguin) engines back to 400 ISP by default.
+ - Added MM config for Penguin engines to detect CryoEngines and make the following tweaks:
+    - Reduces Liquid-Fuel ISP to 360.
+    - Adds mode switching, with alternate Liquid-Hydrogen mode, with slightly better ISP but slightly worse thrust.
+ - Added a minuscule gimbal range to Penguin engines (previously they were non-vectoring). 
+ - Significantly increased connection breaking strength on most parts (including all 7.5m parts).
+
+0.5.1 (2015-09-23) - Beta.
+ - Adjusted P-series (Penguins) vacuum ISP to 390. Work in progress. :)
+ - Fixed a problem with the 7.5m tanks (and 5m tanks) working properly with Modular Fuel Tanks.
+
+0.5 (2015-09-23) - Beta.
+ - Fixed an issue with some parts not being able to show up in CTT's tech tree. Requires SpaceY-Lifters v1.0.4 to be effective.
+ - Corrected the names of the README and this CHANGELOG to reflect that it's the Expanded version of the mod.
+ - Reduced P-series (Penguins) vacuum ISP to 380 (down from 400).
+
+0.4 (2015-09-11) - Alpha/Beta.
+ - Added 7.5m service bay.
+ - Corrected the 3.75m and 5m service bays to have "No Attach" flag for door colliders.
+ - Reduced the size of the flag decal on the 5m service bay.
+
+0.3 (2015-09-10) - Alpha/Beta.
+ - Added service bays: 3.75m, 5m
+ - Fixed a typo in the TweakScale config.
+
+0.2 (2015-09-04) - Alpha/Beta
+ - Increased the 1-atmosphere ISP of the Penguin (vacuum) engines to 250, up from 100.
+ - Changed the E1 engine's thrust vector location to aid in clipping engines.
+ - Added fueled 7.5m nose cone.
+ - 7.5m to 5m adapter tank more than doubled in capacity, cost, etc (was underpowered for its size)
+    - Also added it to the Modular Fuel Tanks config.
+ - Added an additional shorter 7.5m to 5m adapter tank with checkered paint scheme.
+ - Added non-fueled 7.5m to 5m adapter.
+ - Added an upper-stage capable 7.5m "Dual-Emu" engine.
+
+0.1 (2015-09-02) - Initial Alpha test version. 
+ - Requires ModuleManager and SpaceY-Lifters as dependencies.
