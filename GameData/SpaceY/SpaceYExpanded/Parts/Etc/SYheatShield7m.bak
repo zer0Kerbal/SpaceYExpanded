@@ -6,7 +6,7 @@ PART
 	
 	MODEL
 	{
-		model = SpaceY-Expanded/Parts/Etc/SYheatShield7m
+		model = SpaceY/SpaceYExpanded/Parts/Etc/SYheatShield7m
 		texture = SYheatShieldShroud-Specular, SpaceY-Lifters/Parts/HeatShield/SYheatShieldShroud-Specular
 		texture = SYheatShield-Specular, SpaceY-Lifters/Parts/HeatShield/SYheatShield-Specular
 	}
