@@ -1,3 +1,7 @@
+0.5.1 (2015-09-23) - Beta.
+ - Adjusted P-series (Penguins) vacuum ISP to 390. Work in progress. :)
+ - Fixed a problem with the 7.5m tanks (and 5m tanks) working properly with Modular Fuel Tanks.
+
 0.5 (2015-09-23) - Beta.
  - Fixed an issue with some parts not being able to show up in CTT's tech tree. Requires SpaceY-Lifters v1.0.4 to be effective.
  - Corrected the names of the README and this CHANGELOG to reflect that it's the Expanded version of the mod.
