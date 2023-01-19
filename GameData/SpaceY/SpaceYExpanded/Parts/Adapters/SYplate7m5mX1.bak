@@ -1,0 +1,64 @@
+PART {
+
+name = SYplate7m5mX1
+module = Part
+author = NecroBones
+
+MODEL
+{
+	model = SpaceY-Expanded/Parts/Adapters/SYplate7m5mX1
+	texture = SYplate3m1m-Specular, SpaceY-Lifters/Parts/ThrustPlates/SYplate3m1m-Specular
+	scale = 1.0, 1.0, 1.0
+}
+scale = 1.0
+rescaleFactor = 1
+
+node_stack_bottom = 0.0, -0.3, 0.0, 0.0, -1.0, 0.0, 4
+node_stack_bottom1 = 0.0, -6.0, 0.0, 0.0, -1.0, 0.0, 5
+node_stack_top = 0.0, 0.3, 0.0, 0.0, 1.0, 0.0, 5
+
+TechRequired = metaMaterials
+entryCost = 8000
+cost = 2500
+category = Structural
+subcategory = 0
+title = SpaceY A7-5 Interstage Adapter
+manufacturer = SpaceY Technologies Corporation
+description = (7.5m to 5m) Customize your engine clusters, in either an upper-stage (with fairing), or lower-stage configuration.
+
+// attachment rules: stack, srfAttach, allowStack, allowSrfAttach, allowCollision
+attachRules = 1,0,1,0,1
+stackSymmetry = 7
+
+mass = 1.0
+dragModelType = default
+maximum_drag = 0.3
+minimum_drag = 0.3
+angularDrag = 3
+crashTolerance = 12
+maxTemp = 2400
+bulkheadProfiles = size4, size5
+
+breakingForce = 75000
+breakingTorque = 75000
+
+fuelCrossFeed = True
+NoCrossFeedNodeKey = bottom
+
+	thermalMassModifier = 4.0 // the dang things are light, so 3200 kJ/tonne-K
+	heatConductivity = 0.24 // double default
+
+
+MODULE
+{
+       name = ModuleJettison
+       jettisonName = SYplate7mShroud
+       bottomNodeName = bottom1
+       isFairing = True
+       jettisonedObjectMass = 0.1
+       jettisonForce = 5
+       jettisonDirection = 0 0 1
+	
+}
+
+}
