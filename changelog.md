@@ -11,12 +11,12 @@
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
 
-## Version 1.4.0.0-Orvidius-CF - KSP 1.4 update
+## Version 1.4.0.0-Orvidius-CF-release - KSP 1.4 update
 
 * 28 Jan 2022
 * Released for Kerbal Space Program 1.8.1
 
-### Status 1.4.0.0-release-Orvidius-CF
+### Status 1.4.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -24,7 +24,7 @@
 
 ---
 
-### Status 1.4.0.0-release
+### Status 1.4.0.0
 
 * Released for Kerbal Space Program 1.4.4
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Version 1.3.1.0 - Clean-up
+## Version 1.3.1.0-release - Clean-up
 
 * 03 Nov 2016
 * Released for Kerbal Space Program 1.4.0
@@ -42,7 +42,7 @@
 * Added "NEEDS" conditional for Connected Living Space patches, to clean up log spam.
 * Consolidated the engine thrust transforms on the Penguin series engines.
 
-### Status 1.3.1.0-release
+### Status 1.3.1.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -50,7 +50,7 @@
 
 ---
 
-## Version 1.3.0.0 - Update
+## Version 1.3.0.0-release - Update
 
 * 18 Oct 2016
 * Released for Kerbal Space Program 1.2.0
@@ -62,7 +62,7 @@
 * Added "SaturnV" paint scheme to 10m tanks to match new engine adapters.
 * Removed some unnecessary duplicate geometry from 10m fuel tanks.
 
-### Status 1.3.0.0-release
+### Status 1.3.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -70,7 +70,7 @@
 
 ---
 
-## Version 1.2.0.0 - Update & KSP 1.2 compatibility
+## Version 1.2.0.0-release - Update & KSP 1.2 compatibility
 
 * 12 Oct 2016
 * Released for Kerbal Space Program 1.2.0
@@ -80,7 +80,7 @@
 * Added 10m parts, including some large thrust plates for SpaceX BFR/MCT/ITS styled lifters.
 * Categories adjusted for several parts, corresponding to 1.2 changes.
 
-### Status 1.2.0.0-release
+### Status 1.2.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -88,7 +88,7 @@
 
 ---
 
-## Version 1.1.11.0 - Tweaks
+## Version 1.1.11.0-release - Tweaks
 
 * 01 Aug 2016
 * Released for Kerbal Space Program 1.1.3
@@ -97,7 +97,7 @@
 * Removed RemoteTech modules from probe core (now handled by patch in SpaceY-Lifters).
 * Added a compatibility exclusion for HPTechTree.
 
-### Status 1.1.11.0-release
+### Status 1.1.11.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -105,7 +105,7 @@
 
 ---
 
-## Version 1.1.10.0 - Tweaks
+## Version 1.1.10.0-release - Tweaks
 
 * 12 Jul 2016
 * Released for Kerbal Space Program 1.1.3
@@ -113,7 +113,7 @@
 * Restricted liquid fuel engines, fairings, and decouplers to non-surface part testing contracts, to match SRBs.
 * Adjusted some nickname tags on engines.
 
-### Status 1.1.10.0-release
+### Status 1.1.10.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -121,7 +121,7 @@
 
 ---
 
-## Version 1.1.9.0 - Tweaks
+## Version 1.1.9.0-release - Tweaks
 
 * 01 May 2016
 * Released for Kerbal Space Program 1.1.0
@@ -130,7 +130,7 @@
 * Probe cores now also have a toggle option for light-up labels that correspond to the indicator lights.
 * Converted many texture placeholders to DDS format (not that this gains much of anything).
 
-### Status 1.1.9.0-release
+### Status 1.1.9.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -138,7 +138,7 @@
 
 ---
 
-## Version 1.1.8.0 - Tweaks
+## Version 1.1.8.0-release - Tweaks
 
 * 25 Apr 2016
 * Released for Kerbal Space Program 1.1.0
@@ -148,7 +148,7 @@
 * Updated heat shield's staging settings to match stock changes in 1.1.
 * Fixed the "always transparent" problem in the VAB for the service/cargo bays.
 
-### Status 1.1.8.0-release
+### Status 1.1.8.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -156,7 +156,7 @@
 
 ---
 
-## Version 1.1.7.0 - Career fixes
+## Version 1.1.7.0-release - Career fixes
 
 * 17 Apr 2016
 * Released for Kerbal Space Program 1.1.0
@@ -165,7 +165,7 @@
 * Adjusted career prices of E1,E2,E4,R9 engines, to bring them into line with stock again.
 * Increased prices on Penguin (P-series) engines.
 
-### Status 1.1.7.0-release
+### Status 1.1.7.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -173,7 +173,7 @@
 
 ---
 
-## Version 1.1.6.0 - KSP 1.1 Update
+## Version 1.1.6.0-release - KSP 1.1 Update
 
 * 31 Mar 2016
 * Released for Kerbal Space Program 1.1.0
@@ -182,7 +182,7 @@
 * Added tags for part searches.
 * Updated ModuleManager inclusion.
 
-### Status 1.1.6.0-release
+### Status 1.1.6.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -190,14 +190,14 @@
 
 ---
 
-## Version 1.1.5.0 - Tweaks
+## Version 1.1.5.0-release - Tweaks
 
 * 29 Jan 2016
 * Released for Kerbal Space Program 1.0.5
 
 * Updated the CryoEngines config to be consistent with its new propellant ratio.
 
-### Status 1.1.5.0-release
+### Status 1.1.5.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -205,14 +205,14 @@
 
 ---
 
-## Version 1.1.4.0 - Tweaks
+## Version 1.1.4.0-release - Tweaks
 
 * 14 Jan 2016
 * Released for Kerbal Space Program 1.0.5
 
 * Removed the tech tree nodes, since they've been moved to SpaceY Lifters (requires SpaceY Lifters 1.8.2+).
 
-### Status 1.1.4.0-release
+### Status 1.1.4.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -220,14 +220,14 @@
 
 ---
 
-## Version 1.1.3.0 - Fixes
+## Version 1.1.3.0-release - Fixes
 
 * 11 Jan 2016
 * Released for Kerbal Space Program 1.0.5
 
 * CryoEngines fix: The Penguin engines should no longer display their default plume effects even when not running.
 
-### Status 1.1.3.0-release
+### Status 1.1.3.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -235,14 +235,14 @@
 
 ---
 
-## Version 1.1.2.0 - Fixes
+## Version 1.1.2.0-release - Fixes
 
 * 02 Jan 2016
 * Released for Kerbal Space Program 1.0.5
 
 * CryoEngines fix: The Penguin engines should no longer run more than one engine mode at once.
 
-### Status 1.1.2.0-release
+### Status 1.1.2.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -250,7 +250,7 @@
 
 ---
 
-## Version 1.1.1.0 - Fixes
+## Version 1.1.1.0-release - Fixes
 
 * 02 Jan 2016
 * Released for Kerbal Space Program 1.0.5
@@ -258,7 +258,7 @@
 * Included ModuleManager version updated with its 2.6.16 bugfix update.
 * Added a "needs" condition for TweakScale patches.
 
-### Status 1.1.1.0-release
+### Status 1.1.1.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -266,7 +266,7 @@
 
 ---
 
-## Version 1.1.0.0 - Texture Compatibility
+## Version 1.1.0.0-release - Texture Compatibility
 
 * 31 Dec 2015
 * Released for Kerbal Space Program 1.0.5
@@ -276,7 +276,7 @@
   * Adjusted UV-mapping of 5m texture as needed to corrospond to changes in Lifters.
 * Changed "ModularFuelTanks" config to also apply if RealFuels is installed.
 
-### Status 1.1.0.0-release
+### Status 1.1.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -284,7 +284,7 @@
 
 ---
 
-## Version 1.0.0.0 - Stable
+## Version 1.0.0.0-release - Stable
 
 * 17 Dec 2015
 * Released for Kerbal Space Program 1.0.5
@@ -302,7 +302,7 @@
 * Replaced "placeholder" textures. Smaller, and more obvious when texture reassignment has failed.
 * Corrected a texture assignment problem on the 7.5m E2 engine.
 
-### Status 1.0.0.0-release
+### Status 1.0.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -310,7 +310,7 @@
 
 ---
 
-## Version 0.9.0.0 - KSP 1.0.5 update
+## Version 0.9.0.0-release - KSP 1.0.5 update
 
 * 11 Nov 2015
 * Released for Kerbal Space Program 1.0.5
@@ -322,7 +322,7 @@
 * Engines, fairings, decouplers/separators updated to use new stock-alike thermal settings and contract constraints.
 * Lightened the color and "grain" of the white texture on fuel tanks (will also affect 5m tanks).
 
-### Status 0.9.0.0-release
+### Status 0.9.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -330,7 +330,7 @@
 
 ---
 
-## Version 0.8.0.0 - Beta, engine updates
+## Version 0.8.0.0-release - Beta, engine updates
 
 * 16 Oct 2015
 * Released for Kerbal Space Program 1.0.4
@@ -340,7 +340,7 @@
 * R9 engine now uses new engine bell art assets from SpaceY Lifters 1.3+.
 * New default custom particle effects for LFO engines (E,P series).
 
-### Status 0.8.0.0-release
+### Status 0.8.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -348,7 +348,7 @@
 
 ---
 
-## Version 0.7.0.0 - Beta
+## Version 0.7.0.0-release - Beta
 
 * 09 Oct 2015
 * Released for Kerbal Space Program 1.0.4
@@ -357,7 +357,7 @@
 * Fuel tanks now have multiple paint schemes, selectable if InterstellarFuelSwitch or Firespitter are installed.
   * Known issue: Will have nasty z-fighting with all paint schemes at once, if something tricks ModuleManager about Interstelar/Firespitter installed state. Might have to delete ModuleManager config cache.
 
-### Status 0.7.0.0-release
+### Status 0.7.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -365,7 +365,7 @@
 
 ---
 
-## Version 0.6.1.0 - Tweaks
+## Version 0.6.1.0-release - Tweaks
 
 * 02 Oct 2015
 * Released for Kerbal Space Program 1.0.4
@@ -376,7 +376,7 @@
 * Adjusted the Penguin engines' CryoEngines-triggered ISPs upward for both fuel modes.
 * Added 7.5m stack separator.
 
-### Status 0.6.1.0-release
+### Status 0.6.1.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -384,7 +384,7 @@
 
 ---
 
-## Version 0.6.0.0 - Beta
+## Version 0.6.0.0-release - Beta
 
 * 01 Oct 2015
 * Released for Kerbal Space Program 1.0.4
@@ -396,7 +396,7 @@
 * Added a minuscule gimbal range to Penguin engines (previously they were non-vectoring). 
 * Significantly increased connection breaking strength on most parts (including all 7.5m parts).
 
-### Status 0.6.0.0-release
+### Status 0.6.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -404,7 +404,7 @@
 
 ---
 
-## Version 0.5.1.0 - Beta
+## Version 0.5.1.0-release - Beta
 
 * 23 Sep 2015
 * Released for Kerbal Space Program 1.0.4
@@ -412,7 +412,7 @@
 * Adjusted P-series (Penguins) vacuum ISP to 390. Work in progress. :)
 * Fixed a problem with the 7.5m tanks (and 5m tanks) working properly with Modular Fuel Tanks.
 
-### Status 0.5.1.0-release
+### Status 0.5.1.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -420,7 +420,7 @@
 
 ---
 
-## Version 0.5.0.0 - Beta
+## Version 0.5.0.0-release - Beta
 
 * 23 Sep 2015
 * Released for Kerbal Space Program 1.0.4
@@ -429,7 +429,7 @@
 * Corrected the names of the README and this CHANGELOG to reflect that it's the Expanded version of the mod.
 * Reduced P-series (Penguins) vacuum ISP to 380 (down from 400).
 
-### Status 0.5.0.0-release
+### Status 0.5.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -437,7 +437,7 @@
 
 ---
 
-## Version 0.4.0.0 - Alpha/Beta
+## Version 0.4.0.0-release - Alpha/Beta
 
 * 11 Sep 2015
 * Released for Kerbal Space Program 1.0.4
@@ -446,7 +446,7 @@
 * Corrected the 3.75m and 5m service bays to have "No Attach" flag for door colliders.
 * Reduced the size of the flag decal on the 5m service bay.
 
-### Status 0.4.0.0-release
+### Status 0.4.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -454,7 +454,7 @@
 
 ---
 
-## Version 0.3.0.0 - Alpha/Beta
+## Version 0.3.0.0-release - Alpha/Beta
 
 * 10 Sep 2015
 * Released for Kerbal Space Program 1.0.4
@@ -462,7 +462,7 @@
 * Added service bays: 3.75m, 5m
 * Fixed a typo in the TweakScale config.
 
-### Status 0.3.0.0-release
+### Status 0.3.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -470,7 +470,7 @@
 
 ---
 
-## Version 0.2.0.0 - Alpha/Beta
+## Version 0.2.0.0-release - Alpha/Beta
 
 * 04 Sep 2015
 * Released for Kerbal Space Program 1.0.4
@@ -484,7 +484,7 @@
 * Added non-fueled 7.5m to 5m adapter.
 * Emu" engine. stage capable 7.5m "Dual Added an upper
 
-### Status 0.2.0.0-release
+### Status 0.2.0.0
 
 * Issues
   * updates #7 - Archival Releases
@@ -492,14 +492,14 @@
 
 ---
 
-## Version 0.1.0.0 - Initial Alpha test version
+## Version 0.1.0.0-release - Initial Alpha test version
 
 * 02 Sep 2015
 * Released for Kerbal Space Program 1.0.4
 
 * Requires ModuleManager and SpaceY-Lifters as dependencies.
 
-### Status 0.1.0.0-release
+### Status 0.1.0.0
 
 * Issues
   * updates #7 - Archival Releases
