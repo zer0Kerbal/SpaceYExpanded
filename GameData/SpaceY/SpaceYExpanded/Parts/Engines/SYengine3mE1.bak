@@ -196,7 +196,7 @@ PART
 	MODULE
 	{
 		name = ModuleGimbal
-		gimbalTransformName = thrustTransform
+		gimbalTransformName = gimbalTransform
 		gimbalRange = 1
 	}
 	MODULE

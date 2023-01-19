@@ -8,6 +8,7 @@ PART
 	MODEL
 	{
 		model = SpaceY-Expanded/Parts/Engines/SYengine5mP2
+		texture = SYadapter7m-Specular, SpaceY-Expanded/Parts/Adapters/SYadapter7m-Specular
 		scale = 1.0, 1.0, 1.0
 	}
 	scale = 1.0
@@ -76,7 +77,7 @@ PART
 		atmosphereCurve
 		{
 			key = 0 400
-			key = 1 100
+			key = 1 200
 			key = 6 0.001
 		}
 	}

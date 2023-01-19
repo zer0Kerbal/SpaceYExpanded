@@ -1,34 +1,33 @@
 PART
 {
-	name = SYengine3mE1
+	name = SYengine7mE2
 	module = Part
 	author = NecroBones
 
 	// --- asset parameters ---
 	MODEL
 	{
-		model = SpaceY/SpaceYExpanded/Parts/Engines/SYengine3mE1
+		model = SpaceY-Expanded/Parts/Engines/SYengine7mE2
+		texture = SYplate3m1m-Specular, SpaceY-Lifters/Parts/ThrustPlates/SYplate3m1m-Specular
 		scale = 1.0, 1.0, 1.0
 	}
 	scale = 1.0
 	rescaleFactor = 1
 
-	node_stack_top = 0.0, 2.0, 0.0, 0.0, 1.0, 0.0, 3
-	node_stack_bottom = 0.0, -2.5, 0.0, 0.0, -1.0, 0.0, 3
-	node_attach = 0.0, 2.0, 0.0, 0.0, 1.0, 0.0, 2
-	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 2
+	node_stack_top = 0.0, 2.3, 0.0, 0.0, 1.0, 0.0, 5
+	node_stack_bottom = 0.0, -3.0, 0.0, 0.0, -1.0, 0.0, 5
 
 	TechRequired = veryHeavyRocketry
-	entryCost = 175000
-	cost = 49000
+	entryCost = 195000
+	cost = 99000
 	category = Engine
 	subcategory = 0
-	title = SpaceY E1 "Emu" Engine
+	title = SpaceY E2 "Dual-Emu" Engine
 	manufacturer = SpaceY Technologies Corporation
-	description = Go big, or go home! This heavy lift engine will help shove the launch pad away from you, usually.
+	description = An upper-stage version of the Emu cluster, this engine is capable of multiple restarts and includes its own fairing. Guaranteed to occasionally minimize upper stage explosions.
 	attachRules = 1,1,1,0,1
 
-	mass = 16.35
+	mass = 30
 	// heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -37,8 +36,8 @@ PART
 	minimum_drag = 0.2
 	angularDrag = 2
 	crashTolerance = 15
-	breakingForce = 55000
-	breakingTorque = 55000
+	breakingForce = 65000
+	breakingTorque = 65000
 	maxTemp = 2300 // = 3600
 	bulkheadProfiles = size3
 
@@ -46,13 +45,13 @@ PART
 	MODULE
 	{
 		name = ModuleEnginesFX
-		engineID = SYE1
+		engineID = SYE2
 		runningEffectName = running_closed
 		thrustVectorTransformName = thrustTransform
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 6000
+		maxThrust = 12000
 		heatProduction = 225
 		fxOffset = 0, 0, 0.0
 		engineAccelerationSpeed = 0.4
@@ -71,7 +70,7 @@ PART
 		}
 		atmosphereCurve
 		{
-			key = 0 280
+			key = 0 285
 			key = 1 260
 			key = 12 0.001
 		}
@@ -196,49 +195,27 @@ PART
 	MODULE
 	{
 		name = ModuleGimbal
-		gimbalTransformName = gimbalTransform
+		gimbalTransformName = thrustTransform
 		gimbalRange = 1
+	}
+	RESOURCE
+	{
+		name = HypergolicFluid
+		amount = 100
+		maxAmount = 100
 	}
 	MODULE
 	{
 		name = ModuleEngineIgnitor
-		ignitionsAvailable = 0
+		ignitionsAvailable = 10
 		autoIgnitionTemperature = 800
 		ignitorType = External
 		IGNITOR_RESOURCE
 		{
 			name = HypergolicFluid
 			amount = 100.0
-			// 1 Ignition (Through Launch Stability Enhancer)
+			// 1 Ignition without launch clamps
 		}
 	}
-}
-// This is setup as a ModuleManager patch, so it can detect which module name to use.
-@PART[SYengine3mE1]:NEEDS[InterstellarFuelSwitch|Firespitter]
-{
-	MODULE
-	{
-		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
-		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
-		objects = engineBaseFull,colliderBaseFull;engineBaseNarrow,colliderBaseNarrow
-		objectDisplayNames = 3.75m Base;Reduced Base
-		affectColliders = true
-		buttonName = Toggle 3.75m Housing
-		//previousButtonName = Previous Variant
-		showPreviousButton = false
-	}
-}
-@PART[SYengine3mE1]:NEEDS[!InterstellarFuelSwitch&!Firespitter]
-{
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = engineBase
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.5
-		jettisonForce = 15
-		jettisonDirection = 0 0 1
-	}	
 }
 

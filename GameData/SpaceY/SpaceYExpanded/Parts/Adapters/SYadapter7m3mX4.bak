@@ -6,7 +6,7 @@ author = NecroBones
 
 MODEL
 {
-	model = SpaceY/SpaceYExpanded/Parts/Adapters/SYadapter7m3mX4
+	model = SpaceY-Expanded/Parts/Adapters/SYadapter7m3mX4
 	texture = SYplate3m1m-Specular, SpaceY-Lifters/Parts/ThrustPlates/SYplate3m1m-Specular
 	scale = 1.0, 1.0, 1.0
 }
