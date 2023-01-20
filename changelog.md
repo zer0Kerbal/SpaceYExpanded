@@ -30,7 +30,7 @@
 * Can now search for `sye` or `spacey` in the editor search bar to find parts in this pack.
 * 42 total parts
   * Only updated parts are included
-    * Parts updated (and included in this (pre)release)
+    * 11 parts newly updated
       * Bays
         * sye-serviceBay3m
         * sye-serviceBay5m
@@ -44,7 +44,7 @@
         * sye-fairing7m
       * Heatshields
         * sye-heatShield7m
-* 34 parts remain to be updated
+  * 31 parts remain to be updated
 
 ### Changes 1.4.99.0
 
