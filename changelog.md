@@ -26,19 +26,22 @@
 * Phase I (initial) pass
   * parts pass started (see 1.4.99.0 for more details)
 * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
-* Can now search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+* Can now search for `sye` or `spacey` in the editor search bar to find all parts in this pack.
 * Only updated parts are included
 * Parts updated (and included in this (pre)release)
-  * HeatShield
-    * SYheatShield5m
-  * Decouplers
-    * SYdecouplerRadial2
-    * SYseparator3m
-    * SYseparator5m
-    * SYdecoupler5m
-    * SYdecouplerRadial1
+  * Bays
+    * sye-serviceBay3m
+    * sye-serviceBay5m
+    * sye-serviceBay7m
+  * Command
+    * sye-probe7m
+  * Control
+    * sye-vernier1
   * Fairings
-    * SYfairingBase5mP
+    * SYfairing10m
+    * sye-fairing7m
+  * Heatshields
+    * sye-heatShield7m
 
 ### Changes 1.4.99.0
 
@@ -85,16 +88,20 @@
 
 * closes #8 - Create Localization directory and contents
 * closes #10 - Create <SpaceYExpanded.cfg>
+* closes #40 - English <en-us.cfg>
+* closes #57 - Part Localization
 * closes #58 - Part Tags
 * updates #39 - Localization - Master
-* updates #40 - English <en-us.cfg>
-* updates #57 - Part Localization
   
 ### Parts 1.4.99.0
 
+* applied patches supplied by forums
+  * thank you to [linuxgurugamer][https://github.com/linuxgurugamer]
+  * Penguin Patch applied internally
+  * Vernier Patch applied
+  * closes #62 - [PATCH] Vernier
+  * closes #72 - [PATCH] Penguin Engines Thrust
 * updates #9 - Part Asset Updates
-* closes #62 - [PATCH] Vernior
-* closes #72 - [PATCH] Penguin Engines Thrust
 
 ### Assets 1.4.99.0
 
