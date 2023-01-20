@@ -1,3 +1,7 @@
+1.1.10 (2016-07-12) - Tweaks.
+ - Restricted liquid fuel engines, fairings, and decouplers to non-surface part testing contracts, to match SRBs.
+ - Adjusted some nickname tags on engines.
+
 1.1.9 (2016-05-01) - Tweaks.
  - Updated Probe core to use IndicatorLights if available.
  - Probe cores now also have a toggle option for light-up labels that correspond to the indicator lights.
