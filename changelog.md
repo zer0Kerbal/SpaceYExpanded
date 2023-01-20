@@ -20,11 +20,11 @@
 
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Summary 1.9.99.0
+### Summary 1.4.99.0
 
 * This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 * Phase I (initial) pass
-  * parts pass started (see 1.9.99.0 for more details)
+  * parts pass started (see 1.4.99.0 for more details)
 * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
 * Can now search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
 * Only updated parts are included
@@ -40,9 +40,9 @@
   * Fairings
     * SYfairingBase5mP
 
-### Changes 1.9.99.0
+### Changes 1.4.99.0
 
-### Archival Releases 1.9.99.0
+### Archival Releases 1.4.99.0
 
 * Release
   * Version 1.4.0.0 - KSP 1.4 update
@@ -77,11 +77,11 @@
 * closes #7 - Archival Releases
 * closes #71 - [BUG] from archival releases
 
-### Compatibility 1.9.99.0
+### Compatibility 1.4.99.0
 
-### Config 1.9.99.0
+### Config 1.4.99.0
 
-### Localization 1.9.99.0
+### Localization 1.4.99.0
 
 * closes #8 - Create Localization directory and contents
 * closes #10 - Create <SpaceYExpanded.cfg>
@@ -90,18 +90,30 @@
 * updates #40 - English <en-us.cfg>
 * updates #57 - Part Localization
   
-### Parts 1.9.99.0
+### Parts 1.4.99.0
 
 * updates #9 - Part Asset Updates
 * closes #62 - [PATCH] Vernior
 * closes #72 - [PATCH] Penguin Engines Thrust
 
-### Documentation 1.9.99.0
+### Assets 1.4.99.0
+
+SYadapter7m-Specular.dds 1kb
+SYadapter7m-Specular.dds 1kb
+SYadapter7m-Specular.dds 1kb
+SYplate3m1m-Specular.dds 1kb
+SYplate3m1m-Specular.dds 1kb
+SYtank5m-Specular.dds 1kb
+SYtank7m-Specular.dds 1kb
+SYtank7m-Specular.dds 1kb
+SYtank7m-Specular.dds 1kb
+
+### Documentation 1.4.99.0
 
 * closes #5 - Create GitHub Pages
 * closes #6 - Create HeroLogo.png
 
-### Summary 1.9.99.0
+### Summary 1.4.99.0
 
 * Issues
   * closes #1 - SpaceY Expanded (SYE) 1.4.99.0-adoption `<Thank you NecroBones>` edition
