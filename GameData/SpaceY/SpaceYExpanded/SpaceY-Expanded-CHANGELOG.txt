@@ -1,7 +1,15 @@
+1.3 (2016-10-18) - Update.
+ - Moved service bays to Payload tab.
+ - Added a pair of 10m-3.75m engine adapters.
+ - Added 10m stack separator.
+ - Added two new lengths of 10m fuel tanks.
+ - Added "SaturnV" paint scheme to 10m tanks to match new engine adapters.
+ - Removed some unnecessary duplicate geometry from 10m fuel tanks.
+
 1.2 (2016-10-12) - Update & KSP 1.2 compatibility.
  - Added KSP 1.2 and KerbNet modules to probe cores.
  - Corrected a mesh alignment issue on the E1 Emu engine. 
- - Added 10m parts, including some large thrust plates for SpaceX BFT/MCT/ITS styled lifters.
+ - Added 10m parts, including some large thrust plates for SpaceX BFR/MCT/ITS styled lifters.
  - Categories adjusted for several parts, corresponding to 1.2 changes.
 
 1.1.11 (2016-08-01) - Tweaks.
