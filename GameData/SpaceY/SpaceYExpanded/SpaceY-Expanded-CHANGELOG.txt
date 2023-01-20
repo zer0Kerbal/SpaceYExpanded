@@ -1,3 +1,8 @@
+1.1.11 (2016-08-01) - Tweaks.
+ - Icon-only shroud added to fairing base, for easy identification in menu.
+ - Removed RemoteTech modules from probe core (now handled by patch in SpaceY-Lifters).
+ - Added a compatibility exclusion for HPTechTree.
+
 1.1.10 (2016-07-12) - Tweaks.
  - Restricted liquid fuel engines, fairings, and decouplers to non-surface part testing contracts, to match SRBs.
  - Adjusted some nickname tags on engines.
