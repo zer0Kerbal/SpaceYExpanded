@@ -32,6 +32,6 @@ KerbalStuff download:
 https://kerbalstuff.com/mod/1137/SpaceY Expanded
 
 
-This parts pack is being shared under the CC-NC-SA license:
+This parts pack is being shared under the CC-BY-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 

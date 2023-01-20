@@ -1,3 +1,9 @@
+1.1.8 (2016-04-25) - Tweaks.
+ - More search keywords on engines.
+ - Added collider setting for procedural fairing base.
+ - Updated heat shield's staging settings to match stock changes in 1.1.
+ - Fixed the "always transparent" problem in the VAB for the service/cargo bays.
+
 1.1.7 (2016-04-17) - Career fixes.
  - Drastically reduced career prices for fuel tanks, to bring them into line with stock again.
  - Adjusted career prices of E1,E2,E4,R9 engines, to bring them into line with stock again.
