@@ -11,6 +11,106 @@
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
 
+## Version 1.9.99.1-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 17 Jan 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.9.99.0
+
+* This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+* Phase I (initial) pass
+  * parts pass started (see 1.9.99.0 for more details)
+* <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+* Can now search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+* Only updated parts are included
+* Parts updated (and included in this (pre)release)
+  * HeatShield
+    * SYheatShield5m
+  * Decouplers
+    * SYdecouplerRadial2
+    * SYseparator3m
+    * SYseparator5m
+    * SYdecoupler5m
+    * SYdecouplerRadial1
+  * Fairings
+    * SYfairingBase5mP
+
+### Changes 1.9.99.0
+
+### Archival Releases 1.9.99.0
+
+* Release
+  * Version 1.4.0.0 - KSP 1.4 update
+  * Version 1.4.0.0 - KSP 1.4 update
+  * Version 1.3.1.0 - Clean-up
+  * Version 1.3.0.0 - Update
+  * Version 1.2.0.0 - Update & KSP 1.2 compatibility
+  * Version 1.1.11.0 - Tweaks
+  * Version 1.1.10.0 - Tweaks
+  * Version 1.1.9.0 - Tweaks
+  * Version 1.1.8.0 - Tweaks
+  * Version 1.1.7.0 - Career fixes
+  * Version 1.1.6.0 - KSP 1.1 Update
+  * Version 1.1.5.0 - Tweaks
+  * Version 1.1.4.0 - Tweaks
+  * Version 1.1.3.0 - Fixes
+  * Version 1.1.2.0 - Fixes
+  * Version 1.1.1.0 - Fixes
+  * Version 1.1.0.0 - Texture Compatibility
+  * Version 1.0.0.0 - Stable
+  * Version 0.9.0.0 - KSP 1.0.5 update
+  * Version 0.8.0.0 - Beta, engine updates
+  * Version 0.7.0.0 - Beta
+  * Version 0.6.1.0 - Tweaks
+  * Version 0.6.0.0 - Beta
+  * Version 0.5.1.0 - Beta
+  * Version 0.5.0.0 - Beta
+  * Version 0.4.0.0 - Alpha/Beta
+  * Version 0.3.0.0 - Alpha/Beta
+  * Version 0.2.0.0 - Alpha/Bet
+  * Version 0.1.0.0 - Initial Alpha test version
+* closes #7 - Archival Releases
+* closes #71 - [BUG] from archival releases
+
+### Compatibility 1.9.99.0
+
+### Config 1.9.99.0
+
+### Localization 1.9.99.0
+
+* closes #8 - Create Localization directory and contents
+* closes #10 - Create <SpaceYExpanded.cfg>
+* closes #58 - Part Tags
+* updates #39 - Localization - Master
+* updates #40 - English <en-us.cfg>
+* updates #57 - Part Localization
+  
+### Parts 1.9.99.0
+
+* updates #9 - Part Asset Updates
+* closes #62 - [PATCH] Vernior
+* closes #72 - [PATCH] Penguin Engines Thrust
+
+### Documentation 1.9.99.0
+
+* closes #5 - Create GitHub Pages
+* closes #6 - Create HeroLogo.png
+
+### Summary 1.9.99.0
+
+* Issues
+  * closes #1 - SpaceY Expanded (SYE) 1.4.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #2 - 1.4.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.4.99.0 Create Documentation
+  * closes #4 - 1.4.99.0 Create Social Media Presence
+
+---
+
 ## Version 1.4.0.0-Orvidius-CF-release - KSP 1.4 update
 
 * 28 Jan 2022
@@ -30,11 +130,15 @@
 ## Version 1.4.0.0-release - KSP 1.4 update
 
 * 02 Apr 2018
-* Released for Kerbal Space Program 1.4.0
+* Released for Kerbal Space Program 1.4.4
+
+* Reworked color-changing to use KSP 1.4's mesh switcher.
+* Flag decals disabled for now, since the stock mesh switcher doesn't play nicely with them.
+* Disabled auto-caps on tanks, due to KSP bugs over several versions.
+* Added some missing definitions for Modular Fuel Tanks.
+* Changed ModularFuelTanks config to use consolidated wildcard patch.
 
 ### Status 1.4.0.0
-
-* Released for Kerbal Space Program 1.4.4
 
 * Issues
   * updates #7 - Archival Releases
