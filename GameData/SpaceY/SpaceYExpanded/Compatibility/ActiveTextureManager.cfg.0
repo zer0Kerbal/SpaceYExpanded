@@ -1,0 +1,23 @@
+// ActiveTextureManager.cfg v1.5.0.0
+// SpaceY Expanded (SYE)
+// created: 02 Sep 2015
+// updated: 18 Jan 2023
+
+// this file: CC BY-NC-SA 4.0 by zer0Kerbal
+
+ACTIVE_TEXTURE_MANAGER_CONFIG
+{
+	folder = SpaceY/SpaceYExpanded
+	enabled  = true
+	OVERRIDES
+	{
+		SpaceY/SpaceYExpanded/.*
+		{
+			compress = false
+			mipmaps = false
+			scale = 1
+			max_size = 0
+			make_not_readable = false
+		}
+	}
+}
