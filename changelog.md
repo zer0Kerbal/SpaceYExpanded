@@ -16,7 +16,9 @@
 * 28 Jan 2022
 * Released for Kerbal Space Program 1.8.1
 
-### Status 1.4.0.0
+### Status 1.4.0.0-Orvidius
+
+* Maintenance Release
 
 * Issues
   * updates #7 - Archival Releases
@@ -24,6 +26,11 @@
   * updates #71 - [BUG] from archival releases
 
 ---
+
+## Version 1.4.0.0-release - KSP 1.4 update
+
+* 02 Apr 2018
+* Released for Kerbal Space Program 1.4.0
 
 ### Status 1.4.0.0
 
