@@ -22,7 +22,7 @@
 
 ### Summary 1.4.99.0
 
-* This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+* This release is the first in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
 * Phase I (initial) pass
   * parts pass started (see 1.4.99.0 for more details)
 * <ghostparts.cfg> is provided for testing.
@@ -39,6 +39,10 @@
         * sye-probe7m
       * Control
         * sye-vernier1
+      * Engines
+        * sye-engine3mP1
+        * sye-engine5mP2
+        * sye-engine7mP4
       * Fairings
         * SYfairing10m
         * sye-fairing7m
