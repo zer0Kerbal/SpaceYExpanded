@@ -20,7 +20,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/img/HeroLogo_1920x1920.png" alt="SpaceYExpanded Hero" width="50%" height="50%">
 
-![ImGur](https://imgur.com/a/fOIMg) Large rocketry parts, particularly 7.5m diameter, and accessories.
+![Imgur](https://imgur.com/a/fOIMg) Large rocketry parts, particularly 7.5m diameter, and accessories.
 
 ### Forward by [NecroBones][necrobones]
 
