@@ -24,6 +24,183 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
 
+## Version 1.4.99.0-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 17 Jan 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.4.99.0
+
+* This release is the first in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
+* Phase I (initial) pass
+  * parts pass started (see 1.4.99.0 for more details)
+* <ghostparts.cfg> is provided for testing.
+  * This file will not be active for v2.0.0.0-release.
+* Can now search for `sye` or `spacey` in the editor search bar to find parts in this pack.
+* 42 total parts
+  * Only updated parts are included
+    * 11 parts newly updated
+      * Bays
+        * sye-serviceBay3m
+        * sye-serviceBay5m
+        * sye-serviceBay7m
+      * Command
+        * sye-probe7m
+      * Control
+        * sye-vernier1
+      * Engines
+        * sye-engine3mP1
+        * sye-engine5mP2
+        * sye-engine7mP4
+      * Fairings
+        * SYfairing10m
+        * sye-fairing7m
+      * Heatshields
+        * sye-heatShield7m
+  * 31 parts remain to be updated
+
+### Changes 1.4.99.0
+
+### Archival Releases 1.4.99.0
+
+* Create
+  * 1.4.0.0-release - KSP 1.4 update - `<Archival>`
+  * 1.4.0.0-release - KSP 1.4 update - `<Archival>`
+  * 1.3.1.0-release - Clean-up - `<Archival>`
+  * 1.3.0.0-release - Update - `<Archival>`
+  * 1.2.0.0-release - Update & KSP 1.2 compatibility - `<Archival>`
+  * 1.1.11.0-release - Tweaks - `<Archival>`
+  * 1.1.10.0-release - Tweaks - `<Archival>`
+  * 1.1.9.0-release - Tweaks - `<Archival>`
+  * 1.1.8.0-release - Tweaks - `<Archival>`
+  * 1.1.7.0-release - Career fixes - `<Archival>`
+  * 1.1.6.0-release - KSP 1.1 Update - `<Archival>`
+  * 1.1.5.0-release - Tweaks - `<Archival>`
+  * 1.1.4.0-release - Tweaks - `<Archival>`
+  * 1.1.3.0-release - Fixes - `<Archival>`
+  * 1.1.2.0-release - Fixes - `<Archival>`
+  * 1.1.1.0-release - Fixes - `<Archival>`
+  * 1.1.0.0-release - Texture Compatibility - `<Archival>`
+  * 1.0.0.0-release - Stable - `<Archival>`
+  * 0.9.0.0-release - KSP 1.0.5 update - `<Archival>`
+  * 0.8.0.0-release - Beta, engine updates - `<Archival>`
+  * 0.7.0.0-release - Beta - `<Archival>`
+  * 0.6.1.0-release - Tweaks - `<Archival>`
+  * 0.6.0.0-release - Beta - `<Archival>`
+  * 0.5.1.0-release - Beta - `<Archival>`
+  * 0.5.0.0-release - Beta - `<Archival>`
+  * 0.4.0.0-release - Alpha/Beta - `<Archival>`
+  * 0.3.0.0-release - Alpha/Beta - `<Archival>`
+  * 0.2.0.0-release - Alpha/Bet - `<Archival>`
+  * 0.1.0.0-release - Initial Alpha test version - `<Archival>`
+* closes #7 - Archival Releases
+
+### Compatibility 1.4.99.0
+
+### Config 1.4.99.0
+
+### Localization 1.4.99.0
+
+* Create
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* Create
+  * [SpaceYExpanded.cfg] v1.0.0.0
+    * adds localized tags to parts
+* closes #8 - Create Localization directory and contents
+* closes #10 - Create <SpaceYExpanded.cfg>
+* closes #40 - English <en-us.cfg>
+* closes #57 - Part Localization
+* updates #58 - Part Tags
+* updates #39 - Localization - Master
+  
+### Parts 1.4.99.0
+
+* Add
+  * <ghostParts.cfg> v1.3.0.0
+* Rename
+  * parts to match naming scheme
+    * replace `SY` with `sye-`
+  * part files to match part names
+* Fix
+* Lint
+* Reformat
+* moved to SpaceY Corp
+  * several localization strings
+* Errors
+  * closes #71 - [BUG] from archival releases
+* Patches
+  * Updated
+    * filenames
+    * Module Manger patch headers
+    * file headers
+    * general linting
+  * applied patches supplied by forums
+    * Penguin Patch applied
+    * Vernier Patch applied
+    * thank you to [linuxgurugamer](https://github.com/linuxgurugamer)
+  * closes #62 - [PATCH] Vernier
+  * closes #72 - [PATCH] Penguin Engines Thrust
+
+### Assets 1.4.99.0
+
+* create Assets/ folder
+* convert
+  * from mesh to MODEL
+* rename
+  * Rename model files to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * remove duplicates textures/models
+  * <SYadapter7m-Specular.dds> 1kb x3 3kb
+  * <SYplate3m1m-Specular.dds> 1kb x2 2kb
+  * <SYtank5m-Specular.dds> 1kb x4 x4 4kb
+* relocate part.cfg to Parts/
+* updates #9 - Part Asset Updates
+
+### Documentation 1.4.99.0
+
+* Add
+  * GitHub Pages
+    * [`_config.yml`]
+    * [Attribution.md] v1.0.7.1
+    * [ManualInstallation.md] v1.1.8.0
+    * [404.md] v1.0.3.2
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [Part-Catalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+  * docs/thumbs
+* closes #5 - Create GitHub Pages
+* closes #6 - Create HeroLogo.png
+
+### Cover image 1.4.99.0
+
+* Create HeroLogo/Cover image
+* closes #45 - Create HeroLogo.png
+
+### Status 1.4.99.0
+
+* Issues
+  * closes #1 - SpaceY Expanded (SYE) 1.4.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #2 - 1.4.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.4.99.0 Create Documentation
+  * closes #4 - 1.4.99.0 Create Social Media Presence
+
+---
+
 ## Version 1.4.0.0-Orvidius-CF-release - KSP 1.4 update
 
 * 28 Jan 2022
@@ -43,11 +220,15 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 1.4.0.0-release - KSP 1.4 update
 
 * 02 Apr 2018
-* Released for Kerbal Space Program 1.4.0
+* Released for Kerbal Space Program 1.4.4
+
+* Reworked color-changing to use KSP 1.4's mesh switcher.
+* Flag decals disabled for now, since the stock mesh switcher doesn't play nicely with them.
+* Disabled auto-caps on tanks, due to KSP bugs over several versions.
+* Added some missing definitions for Modular Fuel Tanks.
+* Changed ModularFuelTanks config to use consolidated wildcard patch.
 
 ### Status 1.4.0.0
-
-* Released for Kerbal Space Program 1.4.4
 
 * Issues
   * updates #7 - Archival Releases
