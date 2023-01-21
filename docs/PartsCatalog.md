@@ -19,46 +19,60 @@ updated: 15 May 2022 -->
 
 ## Parts Catalog
 
-This add-on adds MANY large rocket parts
+* This add-on adds 42 large rocket parts
+  * [Control](#control)
+  * [Engines](#engines)
+  * [Fairings](#fairings)
+  * [Heat Shields](#heat-shields)
+  * [Probe Cores](#probe-cores)
+  * [Service Bays](#service-bays)
 
-* [Petal Bays][#petal-bays]
-* [Docking Ports][#docking-ports]
-* [Probe Cores][#probe-cores]
-* [SAS][#sas]
+### Control
 
-### Petal Bays
+* Vernier
 
-* 3m x 2m Bay
-* 5m x 3m Bay
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-bay3m2m_icon.png" alt="3m x 2m Bay" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-bay5m3m_icon.png" alt="5m x 3m Bay" width="25%" height="25%" />
-
-[top](#parts-catalog)
-
-### Docking Ports
-
-* 3m, 5m, 7m
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-docking3m_icon.png" alt="3m Docking" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-docking5m_icon.png" alt="5m Docking" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-docking7m_icon.png" alt="7m Docking" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-vernier1_icon.png" alt="sye-vernier1" width="25%" height="25%" /> 
 
 [top](#parts-catalog)
 
-### Probe Cores
+### Engines
 
-* 3m, 5m
+* Penguin
+  * 3m (P1), 5m (P2) and 7m (P4)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-probe3m_icon.png" alt="3m Probe" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-probe5m_icon.png" alt="5m Probe" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-engine3mP1_icon.png" alt="sye-engine3mP1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-engine5mP2_icon.png" alt="sye-engine5mP2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-engine7mP4_icon.png" alt="sye-engine7mP4" width="25%" height="25%" /> 
 
 [top](#parts-catalog)
 
-### SAS
+### Fairings
 
-* Semi-circle SAS (apply as pair)
-  * R3m and R5m
+* 7m and 10m
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-sasR3m_icon.png" alt="R3m SAS" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/syl-sasR5m_icon.png" alt="R5m SAS" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-fairing7m_icon.png" alt="sye-fairing7m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-fairing10m_icon.png" alt="sye-fairing10m" width="25%" height="25%" /> 
 
----
+[top](#parts-catalog)
+
+### Heat Shields
+
+* 7m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-heatShield7m_icon.png" alt="sye-heatShield7m" width="25%" height="25%" /> 
+
+[top](#parts-catalog)
+
+## Probe Cores
+
+* 7m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-probe7m_icon.png" alt="sye-probe7m" width="25%" height="25%" /> 
+
+[top](#parts-catalog)
+
+### Service Bays
+
+* 3m, 5m, and 7m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-serviceBay3m_icon.png" alt="sye-serviceBay3m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-serviceBay5m_icon.png" alt="sye-serviceBay5m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/thumbs/sye-serviceBay7m_icon.png" alt="sye-serviceBay7m" width="25%" height="25%" /> 
 
 [top](#parts-catalog)
 
