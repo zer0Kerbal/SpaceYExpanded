@@ -10,23 +10,22 @@ updated: 15 Mar 2023
 <!--THIS FILE: CC BY-ND 4.0 by zer0Kerbal-->
 
 [![SpaceY Expanded (SYX)][SHD:mod]][CURSFG:url]  
-[![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
 # [SpaceY Expanded (SYX)][CURSFG:url]
 
 An expansion pack for the [SpaceY Lifters (SYL)][SYL] parts addon which adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters. **Requires both [SpaceY Corp (SYC)][SYC] and [SpaceY Lifters (SYL)][SYL].
 
-
-## By [`zer0Kerbal`][zer0Kerbal], originally by  [`NecroBones`][necrobones]
+## By [`zer0Kerbal`][zer0Kerbal], originally by  [`NecroBones`][auth-link]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/img/HeroLogo_1920x1920.png" alt="SpaceYExpanded Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/img/HeroLogo.png" alt="SpaceY Expanded (SYX))" width="50%" height="50%">
 
 ![Imgur](https://imgur.com/a/fOIMg) Large rocketry parts, particularly 7.5m diameter, and accessories.
 
-### Forward by [NecroBones][necrobones]
+### Forward by [NecroBones][auth-link]
 
 > This parts pack is an expansion for the [SpaceY Lifters (SYL)[SYL] pack, and requires that one as a dependency.
 >
@@ -113,7 +112,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [Fuel Tanks Plus (FTP)][FTP]
   * [Fuel Tanks Plus Xtra Kerbal (FTPXK)][FTPXK]
   * [Fuel Tanks Plus IS (FTPIS)][FTPIS]
-* [NecroBones][necrobones] suite of mods that play nicely together
+* [NecroBones][auth-link] suite of mods that play nicely together
   * [Color Coded Canisters (CCC)][CCC] beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
   * [ColorFuel Lines (CFL)][CFL] color-selectable fuel lines
   * [Joolian Discovery (JOOL)][JOOL]
@@ -150,7 +149,7 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [NecroBones][necrobones] for creating this glorious parts addon!
+* [NecroBones][auth-link] for creating this glorious parts addon!
 * see [Attributions][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -167,7 +166,7 @@ parts, config
 
 ##### see [Notices][notic] for more *legal Mumbo Jumbo*
 
-#### Original (0) - Author: [NecroBones][necrobones]
+#### Original (0) - Author: [NecroBones][auth-link]
 
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
@@ -290,7 +289,7 @@ Comment, click, like, share, up-vote, subscribe
 [steam]: https://steamcommunity.com/id/zeroKerbal
 [projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
 
-[necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones/Orvidius"
+[auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones/Orvidius"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 #### Connect with me
