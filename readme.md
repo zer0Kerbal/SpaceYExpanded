@@ -1,5 +1,5 @@
 <!-- readme.md v1.4.99.1
-SpaceY Expanded (SYE)
+SpaceY Expanded (SYX)
 created: 01 Jan 2023
 updated: 30 Mar 2023
 
@@ -7,17 +7,13 @@ TEMPLATE: readme.md v1.7.1.0
 created: 17 Jul 2017
 updated: 15 Mar 2023
 
-<<<<<<< Updated upstream
-this file: CC BY-ND 4.0 by zer0Kerbal -->
-=======
 <!--THIS FILE: CC BY-ND 4.0 by zer0Kerbal-->
->>>>>>> Stashed changes
 
-[![SpaceY Expanded (SYE)][SHD:mod]][forum]  
+[![SpaceY Expanded (SYX)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-# SpaceY Expanded (SYE)
+# [SpaceY Expanded (SYX)][CURSFG:url]
 
 An expansion pack for the [SpaceY Lifters (SYL)][SYL] parts addon which adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters. **Requires both [SpaceY Corp (SYC)][SYC] and [SpaceY Lifters (SYL)][SYL].
 
@@ -249,7 +245,7 @@ Comment, click, like, share, up-vote, subscribe
 [MRS]: https://www.curseforge.com/kerbal/ksp-mods/modularrocketsystems "Modular Rocket Systems (MRS)"
 [MRSL]: https://www.curseforge.com/kerbal/ksp-mods/modularrocketsystemslite "Modular Rocket Systems LITE (MRSL)"
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/ "SpaceY Corporation (SYC)"
-[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYE)"
+[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYX)"
 
 [FTPL]: https://forum.kerbalspaceprogram.com/threads/209628-*/ "Fuel Tanks Plus Ltd"
 [FTP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "Fuel Tanks Plus (FTP)"
