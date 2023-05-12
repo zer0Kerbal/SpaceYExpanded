@@ -2,27 +2,25 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
 ---
-
-<!-- Marketing.md v1.0.1.0
+<!-- Marketing.md v1.5.0.0
 SpaceY Expanded (SYX)
-created: 13 Apr 2022
-updated: 15 May 2022
+created: 17 Jan 2023
+updated: 11 May 2023
 
 based upon work by LisiasT -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# SpaceY Expanded (SYX) (WIP)
+## [SpaceY Expanded (SYX)][mod] (WIP)
 
 [Home](./index.md)
 
 ## Marketing Slicks
-
-* Table of Contents)
+<!-- no toc -->
+* Table of Contents
   * [Resource Flow](#Resource-Flow)
   * [Mining Ore](#Mining-Ore)
   * [Refining Ore to Metal](#Refining-Ore-to-Metal)
@@ -78,4 +76,7 @@ Finalize your build and load up the resources, and
 [IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
 [IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded "SpaceY Expanded (SYX)"
