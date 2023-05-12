@@ -28,7 +28,7 @@ based upon work by LisiasT -->
 
 * "SpaceY-Expanded" is trademark of NecroBones
 * "SpaceY Technologies Corporation" is trademark of NecroBones
-* "SYE" "SYX" is trademark of zer0Kerbal
+* "SYE" "SYX" are trademarks of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
