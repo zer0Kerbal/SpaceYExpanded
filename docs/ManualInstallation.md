@@ -5,14 +5,14 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.5.0.0
 SpaceY Expanded (SYX)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 17 Jan 2023
+updated: 11 May 2023 -->
 
 <!-- based upon work by Lisias -->
 
-# SpaceY Expanded (SYX)
+## [SpaceY Expanded (SYX)][mod]
 
 [Home](./index.md)
 
@@ -97,3 +97,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 [SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYX)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded "SpaceY Expanded (SYX)"
