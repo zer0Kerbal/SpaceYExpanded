@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpaceY.Expanded</name>
+    </assembly>
+    <members>
+        <member name="T:SpaceYExpanded.Version">
+            <summary>Version - retrieved at compile from SpaceYExpanded.version</summary>
+        </member>
+        <member name="F:SpaceYExpanded.Version.major">
+            <summary>Major revision</summary>
+        </member>
+        <member name="F:SpaceYExpanded.Version.minor">
+            <summary>Minor revision</summary>
+        </member>
+        <member name="F:SpaceYExpanded.Version.patch">
+            <summary>Patch revision</summary>
+        </member>
+        <member name="F:SpaceYExpanded.Version.build">
+            <summary>Build revision</summary>
+        </member>
+        <member name="F:SpaceYExpanded.Version.Number">
+            <summary>Version String const</summary>
+        </member>
+        <member name="F:SpaceYExpanded.Version.Text">
+            <summary>Text Version String const</summary>
+        </member>
+        <member name="F:SpaceYExpanded.Version.SText">
+            <summary>Plain Text Version String const</summary>
+        </member>
+        <member name="T:SpaceY.Expanded.ModuleManagerSupport">
+            <summary>ModuleManagerSupport provides for non-duplicating KSP editor categories</summary>
+        </member>
+        <member name="M:SpaceY.Expanded.ModuleManagerSupport.ModuleManagerAddToModList">
+            <summary>public static IEnumerable : string ModuleManagerAddToModList</summary><returns>string</returns>
+        </member>
+    </members>
+</doc>
