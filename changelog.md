@@ -1,7 +1,7 @@
 
 # Changelog  
   
-| modName    | SpaceY Expanded (SYE)                                             |
+| modName    | SpaceY Expanded (SYX)                                             |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                   |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -181,7 +181,7 @@
 ### Status 1.4.99.0
 
 * Issues
-  * closes #1 - SpaceY Expanded (SYE) 1.4.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #1 - SpaceY Expanded (SYX) 1.4.99.0-adoption `<Thank you NecroBones>` edition
   * closes #2 - 1.4.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 1.4.99.0 Create Documentation
   * closes #4 - 1.4.99.0 Create Social Media Presence

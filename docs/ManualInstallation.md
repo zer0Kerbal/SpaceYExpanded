@@ -6,17 +6,17 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-SpaceY Expanded (SYE)
+SpaceY Expanded (SYX)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# SpaceY Expanded (SYE)
+# SpaceY Expanded (SYX)
 
 [Home](./index.md)
 
-An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires SpaceY Corp (SYC), SpaceY Expanded (SYE), and Module Manager to be installed as dependencies.**
+An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires SpaceY Corp (SYC), SpaceY Expanded (SYX), and Module Manager to be installed as dependencies.**
 
 Adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters.
 
@@ -88,12 +88,12 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ### Dependencies
 
 * [SpaceY Corporation (SYC)][SYC]
-* [SpaceY Expanded (SYE)][SYL]
+* [SpaceY Expanded (SYX)][SYL]
 * either
   * [Module Manager /L][mml]
   * [Module Manager][mm]
 
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209446-*/ "SpaceY Corporation (SYC)"
-[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYE)"
+[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYX)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"

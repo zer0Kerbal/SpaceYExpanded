@@ -7,14 +7,14 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- 
 hdr-changelog.md v1.0.0.0
-SpaceY Expanded (SYE) 
+SpaceY Expanded (SYX) 
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 -->
 # Changelog  
   
-| modName    | SpaceY Expanded (SYE)                                             |
+| modName    | SpaceY Expanded (SYX)                                             |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                   |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -194,7 +194,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status 1.4.99.0
 
 * Issues
-  * closes #1 - SpaceY Expanded (SYE) 1.4.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #1 - SpaceY Expanded (SYX) 1.4.99.0-adoption `<Thank you NecroBones>` edition
   * closes #2 - 1.4.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 1.4.99.0 Create Documentation
   * closes #4 - 1.4.99.0 Create Social Media Presence
