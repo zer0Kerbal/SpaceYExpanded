@@ -4,19 +4,22 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.5.0.0
 SpaceY Expanded (SYX)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 17 Jan 2023
+updated: 11 May 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# SpaceY Expanded (SYX)
+based upon work by Lisias -->
+
+## [SpaceY Expanded (SYX)][mod]
 
 [Home](./index.md)
 
-An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires SpaceY Corp (SYC), SpaceY Expanded (SYX), and Module Manager to be installed as dependencies.**
+An expansion pack for the SpaceY Heavy Lifters mod. **This pack requires SpaceY Corp (SYC), SpaceY Expanded (SYX), and ModularManagement to be installed as dependencies.**
 
 Adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters.
 
@@ -56,19 +59,28 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
     + [SpaceY]
       + [SpaceY Corporation (SYC)][SYC]
         ...
-      + [SpaceYExpanded][SYL]
+      + [SpaceYLifters][SYL]
         ...
-      + [SpaceYExpanded][SYE]
+      + [SpaceYExpanded][SYX]
+        + [Assets]
+          ...
+        + [Category]
+          ...
         + [Compatibility]
           ...
         + [Config]
           ...
         + [Contracts]
           ...
+        + [FX]
+          ...
         + [Localization]
           ...
         + [Parts]
           ...
+        + [Plugins]
+          ...
+        ...
         * #.#.#.#.htm
         * Attributions.htm
         * CC-BY-NC-SA-4.0.txt
@@ -76,10 +88,9 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * ManualInstallation.htm
         * readme.htm
         * SpaceYExpanded.version
-        ...
       ...
     ...
-    * [Module Manager /L][mml] or [Module Manager][mm]
+    * [ModularManagement][MM] or [Module Manager][omm]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -89,11 +100,14 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * [SpaceY Corporation (SYC)][SYC]
 * [SpaceY Expanded (SYX)][SYL]
-* either
-  * [Module Manager /L][mml]
-  * [Module Manager][mm]
+* [ModularManagement][MM] or [Module Manager][omm]
 
-[SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209446-*/ "SpaceY Corporation (SYC)"
-[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYX)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
+[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[SYC]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp "SpaceY Corporation (SYC)"
+[SYL]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "SpaceY Lifters (SYL)"
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded "SpaceY Expanded (SYX)"
