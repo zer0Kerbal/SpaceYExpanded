@@ -13,6 +13,8 @@ updated: 15 Mar 2023
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
+![Code][SHD:cde] ![SpaceY.Expanded.dll][SHD:dll]
+
 # [SpaceY Expanded (SYX)][CURSFG:url]
 
 An expansion pack for the [SpaceY Lifters (SYL)][SYL] parts addon which adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters. **Requires both [SpaceY Corp (SYC)][SYC] and [SpaceY Lifters (SYL)][SYL].
@@ -207,6 +209,8 @@ Comment, click, like, share, up-vote, subscribe
 
 <!--- shields -->
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/mod.json
+[SHD:cde]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/code.json
+[SHD:dll]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/dll.json
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- provenance -->
