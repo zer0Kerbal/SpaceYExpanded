@@ -33,7 +33,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Change Summary
 
 * 42/42 parts are now included
-  * parts are fully localized (English) included actions
+  * parts are fully localized (English) including actions
   * Phase I,II,III passes completed
     * parts pass started (see 1.4.99.0 for more details)
     * DRAG_CUBES, cargo, node, tags pass yet to complete
