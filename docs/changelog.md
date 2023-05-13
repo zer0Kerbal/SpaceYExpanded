@@ -2,7 +2,6 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- 
@@ -23,6 +22,172 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded)       |
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
+
+## Version 1.4.99.1-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 12 May 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary
+
+* 42/42 parts are now included
+  * parts are fully localized (English) included actions
+  * Phase I,II,III passes completed
+    * parts pass started (see 1.4.99.0 for more details)
+    * DRAG_CUBES, cargo, node, tags pass yet to complete
+  * Parts updated (and included in this (pre)release)
+    * Fairings
+    * FuelTanks
+    * Heatshields
+    * Structural
+    * ThrustPlates
+    * CargoBays
+    * Command
+    * Control
+    * Coupling
+    * Engines
+* NEW - Category fix [SpaceY.Expanded.dll] v1.4.99.3 - thank you [Lisias](https://github.com/Lisias)
+* Compatibility patches have been updated, not tested.
+* NEW - [BUG] BFR tank issues - just doesn't look pretty
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)
+    * [SpaceY Lifters (SYL)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters)
+  * search for `syx` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing.
+    * This file will not be active for v1.5.0.0-release.
+    * Can be disabled/deleted if installing this addon into a new save
+
+### Changes 1.4.99.1
+
+### Parts 1.4.99.1
+
+* Update
+  * Bays
+    * [syx-bay-375]
+    * [syx-bay-500]
+    * [syx-bay-750]
+  * Command
+    * [syx-probe-750]
+  * Control
+    * [syx-vernier1]
+  * Engines
+    * [syx-eng-375-P1]
+    * [syx-eng-550-P2]
+    * [syx-eng-750-P4]
+  * Fairings
+    * [syx-fairing-1000]
+    * [syx-fairing750]
+  * Heatshields
+    * [syx-heatShield-750]
+  * Add
+    * Control
+      * [syx-vernier1.cfg]
+    * Coupling
+      * [syx-decoupler-1000.cfg]
+      * [syx-decoupler-750.cfg]
+      * [syx-separator-1000.cfg]
+      * [syx-separator-750.cfg]
+    * Engine
+      * [syx-eng-375-E1.cfg]
+      * [syx-eng-750-E2.cfg]
+      * [syx-eng-750-E4.cfg]
+      * [syx-eng-750-R9.cfg]
+    * Fuel Tank
+      * [syx-tank-1000-adapt-750.cfg]
+      * [syx-tank-1000-L15000.cfg]
+      * [syx-tank-1000-L22500.cfg]
+      * [syx-tank-1000-L3750.cfg]
+      * [syx-tank-1000-L7500.cfg]
+      * [syx-tank-750-adapt-250.cfg]
+      * [syx-tank-750-adapt-500.cfg]
+      * [syx-tank-750-cone-1.cfg]
+      * [syx-tank-750-L15000.cfg]
+      * [syx-tank-750-L3750.cfg]
+      * [syx-tank-750-L7500.cfg]
+    * Structural
+      * [syx-adapt-1000-375-X5.cfg]
+      * [syx-adapt-1000-375-X7.cfg]
+      * [syx-adapt-750-375-X4.cfg]
+      * [syx-adapt-750-500.cfg]
+    * Thrust Plates
+      * [syx-plate-1000-125-X37.cfg]
+      * [syx-plate-1000-125-X43.cfg]
+      * [syx-plate-1000-375-X4.cfg]
+      * [syx-plate-1000-750-X1.cfg]
+      * [syx-plate-1000-X0.cfg]
+      * [syx-plate-750-250-X7.cfg]
+      * [syx-plate-750-375-X2.cfg]
+      * [syx-plate-750-500-X1.cfg]
+* closes #94 - [UPDATE] 'normalize' or 'stockalike' the part parameters
+* closes #99 - Phase II - part update pass
+
+### Assets 1.4.99.1
+
+* Update
+  * model (.mu) pointers
+* [BUG] BFR tanks have texture issue
+  * [syx-tank-1000-adapt-750.cfg]
+  * [syx-tank-1000-L3750.cfg]
+  * [syx-tank-1000-L7500.cfg]
+  * [syx-tank-1000-L15000.cfg]
+  * [syx-tank-1000-L22500.cfg]
+* closes #9 - Part Asset Updates
+* updates #104 - [BUG] BFR tanks have texture issue
+
+### Compatibility 1.4.99.1
+
+* Add
+  * [MeshSwitch.cfg]
+  * [RemoteTech.cfg]
+* Update
+  * [ModularFuelTanks.cfg]
+  * [RemoteTech.cfg]
+  * [TweakScale.cfg]
+  * [0_TechTree.cfg]
+  * [ActiveTextureManager.cfg.0]
+  * [CommunityTechTree.cfg]
+  * [ConnectedLivingSpace.cfg]
+  * [CryoEngines.cfg]
+  * [EngineIgnitor.cfg]
+  * [HotRockets.cfg]
+  * [MeshSwitch.cfg]
+
+### Config 1.4.99.1
+
+* Update
+  * [CustomSounds.cfg]
+  * [ghostparts.cfg]
+  * [SpaceYExpanded.cfg]
+  * [Variants.cfg]
+
+### Localization 1.4.99.1
+
+* Complete
+  * part localization
+* Update
+  * Localization/
+    * <en-us.cfg> v1.0.3.0
+* closes #58 - Part Tags
+* updates #39 - Localization - Master
+* updates #40 - English <en-us.cfg>
+
+### Code 1.4.99.1
+
+* NEW - Category fix [SpaceY.Lifters.dll] v1.4.99.1
+  * thank you [Lisias](https://github.com/Lisias)
+  * https://github.com/zer0Kerbal/SpaceYLifters/issues/106#issuecomment-1426527352
+* closes #105 - [BUG] Custom Category causing issues
+
+### Issues 1.4.99.1
+
+* closes #97 - SpaceY Expanded (SYE) 1.4.99.1-prerelease `<Thank you NecroBones>` edition
+* closes #98 - 1.4.99.1 Additional Tasks
+
+---
 
 ## Version 1.4.99.0-prerelease - `<Thank you NecroBones>` edition
 
@@ -45,22 +210,22 @@ CC BY-ND 4.0 by zer0Kerbal
   * Only updated parts are included
     * 11 parts newly updated
       * Bays
-        * sye-serviceBay3m
-        * sye-serviceBay5m
-        * sye-serviceBay7m
+        * syx-serviceBay3m
+        * syx-serviceBay5m
+        * syx-serviceBay7m
       * Command
-        * sye-probe7m
+        * syx-probe7m
       * Control
-        * sye-vernier1
+        * syx-vernier1
       * Engines
-        * sye-engine3mP1
-        * sye-engine5mP2
-        * sye-engine7mP4
+        * syx-engine3mP1
+        * syx-engine5mP2
+        * syx-engine7mP4
       * Fairings
         * SYfairing10m
-        * sye-fairing7m
+        * syx-fairing7m
       * Heatshields
-        * sye-heatShield7m
+        * syx-heatShield7m
   * 31 parts remain to be updated
 
 ### Changes 1.4.99.0
@@ -126,7 +291,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * <ghostParts.cfg> v1.3.0.0
 * Rename
   * parts to match naming scheme
-    * replace `SY` with `sye-`
+    * replace `SY` with `syx-`
   * part files to match part names
 * Fix
 * Lint

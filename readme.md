@@ -25,8 +25,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/img/HeroLogo.png" alt="SpaceY Expanded (SYX))" width="50%" height="50%">
 
-![Imgur](https://imgur.com/a/fOIMg) Large rocketry parts, particularly 7.5m diameter, and accessories.
-
 ### Forward by [NecroBones][auth-link]
 
 > This parts pack is an expansion for the [SpaceY Lifters (SYL)][SYL] pack and requires that one as a dependency.
@@ -63,9 +61,15 @@ send a private message to ~~NecroBones~~ [zer0Kerbal][zer0Kerbal] on the [forums
 <details>
   <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
 
->  Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+>Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 [![KSP Mods - SpaceY Expanded](https://img.youtube.com/vi/IFyvwflW3a4/0.jpg)](https://youtu.be/IFyvwflW3a4)
+</details>
+
+<details>
+  <summary><img src="https://duckduckgo.com/i/fe0eb4d1.png" alt="Imgur logo" height="33px" width="66px"></summary>
+
+![Imgur Album](https://imgur.com/a/fOIMg) Large rocketry parts, particularly 7.5m diameter, and accessories.
 </details>
 
 ### Localization
