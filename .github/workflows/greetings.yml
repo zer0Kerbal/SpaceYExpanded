@@ -30,8 +30,8 @@ jobs:
         # statuses: read|write|none
     if: ${{ github.actor != 'dependabot[bot]' }}
     steps:
-    - uses: actions/first-interaction@latest
-    # - uses: actions/first-interaction@main
+    # - uses: actions/first-interaction@latest
+    - uses: actions/first-interaction@main
       # continue-on-error: true
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
