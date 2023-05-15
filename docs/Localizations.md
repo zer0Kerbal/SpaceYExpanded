@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.5.0.0
+<!-- Localizations.md v1.5.1.0
 SpaceY Expanded (SYX)
 created: 17 Jan 2023
-updated: 11 May 2023
+updated: 15 May 2023
 
 TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
@@ -27,11 +27,11 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
+* ![Español][ES] Spanish (Español) <es-es.cfg>  
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
 * ![Deutsch][DE] German (Deutsch) <de.cfg>  
-* ![Español][ES] Spanish (Español) <es-es.cfg>  
 * ![Français][FR] French (Français) <fr-fr.cfg>  
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
 * ![日本語][JA] Japanese(日本語) <ja.cfg>  
