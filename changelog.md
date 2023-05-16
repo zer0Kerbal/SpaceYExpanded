@@ -11,6 +11,34 @@
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
 
+## Version 1.4.99.2-prerelease - `<Gracias Fitiales>` edition
+
+* Released
+  * 15 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.4.99.2
+
+* Add Spanish (Español) Localization
+  * Gracias [Fitiales](https://gitbub.com/Fitiales)
+* improved tags in several parts
+
+### Changes 1.4.99.2
+
+* Localization
+  * Spanish (Español)
+    * Add <es-es.cfg> v1.0.0.0
+    * Gracias [Fitiales](https://gitbub.com/Fitiales)
+* Improved several part tags
+* Issues
+  * closes #43 - Протон (PROTON) 1.4.99.2-prerelease `<Gracias Fitiales>` edition
+  * closes #44 - 1.4.99.2 Additional Tasks
+  * updates #15 - Localization - Master
+  * closes #19 - Spanish (Español) <es-es.cfg>
+
+---
+
 ## Version 1.4.99.1-prerelease - `<Thank you NecroBones>` edition
 
 * Released
