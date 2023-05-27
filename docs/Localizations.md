@@ -27,27 +27,27 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
-* ![Español][ES] Spanish (Español) <es-es.cfg>  
+* ![Español][ES] Spanish (Español) <es-es.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
-* ![Deutsch][DE] German (Deutsch) <de.cfg>  
-* ![Français][FR] French (Français) <fr-fr.cfg>  
-* ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
-* ![日本語][JA] Japanese(日本語) <ja.cfg>  
-* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>  
-* ![Русский][RU] Russian (Русский) <ru.cfg>  
-* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+* ![Deutsch][DE] German (Deutsch) <de.cfg>
+* ![Français][FR] French (Français) <fr-fr.cfg>
+* ![Italiano][IT] Italian (Italiano) <it-it.cfg>
+* ![日本語][JA] Japanese(日本語) <ja.cfg>
+* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+* ![Русский][RU] Russian (Русский) <ru.cfg>
+* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
 
 ## Additionally Included
 
-* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* ![한국어][KO] Korean (한국어) <ko.cfg>  
-* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
-* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
-* ![Polski][PO] Polish (Polski) <pl.cfg>  
-* ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
-* ![Türk][TR] Turkish (Türk) <tr-tr.cfg>  
+* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
+* ![한국어][KO] Korean (한국어) <ko.cfg>
+* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>
+* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
+* ![Polski][PO] Polish (Polski) <pl.cfg>
+* ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
+* ![Türk][TR] Turkish (Türk) <tr-tr.cfg>
 * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
 <!-- Localization -->
