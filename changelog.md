@@ -18,6 +18,11 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+    * [SpaceY Lifters (SYL)](https://www.curseforge.com/kerbal/ksp-modsSpaceYLifters)
+
 ### Change Summary 1.4.99.2
 
 * Add Spanish (Español) Localization
@@ -32,10 +37,11 @@
     * Gracias [Fitiales](https://gitbub.com/Fitiales)
 * Improved several part tags
 * Issues
-  * closes #43 - Протон (PROTON) 1.4.99.2-prerelease `<Gracias Fitiales>` edition
-  * closes #44 - 1.4.99.2 Additional Tasks
-  * updates #15 - Localization - Master
-  * closes #19 - Spanish (Español) <es-es.cfg>
+  * closes #101 - SpaceY Expanded (SYX) 1.4.99.2-prerelease `<Gracias Fitiales>` edition
+  * closes #102 - 1.4.99.2 Additional Tasks
+  * closes #43 - Spanish (Español) <es-es.cfg>
+  * updates #39 - Localization - Master
+  * updates #104 - [BUG] BFR tanks have texture issue
 
 ---
 
