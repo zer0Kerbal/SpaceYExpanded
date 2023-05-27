@@ -34,7 +34,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > We hope you enjoy this pack. If you have any comments or feedbacplease feel free to
 send a private message to ~~NecroBones~~ [zer0Kerbal][zer0Kerbal] on the [forums][forum]. Thanks!
 >
-> Part of the NecroBones suite of mods, that work nicely together!
+> Part of the [NecroBones][auth-link] suite of mods, that work nicely together!
 
 ### Design Goals
 
@@ -75,6 +75,7 @@ send a private message to ~~NecroBones~~ [zer0Kerbal][zer0Kerbal] on the [forums
 ### Localization
 
 >* ![English][EN] English
+>* ![Spanish (Español)][ES] Spanish (Español) - Gracias [Fitiales](https://github.com/Fitiales)
 >* ***your translation here***
 
 ### Help Wanted
@@ -307,6 +308,7 @@ Comment, click, like, share, up-vote, subscribe
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal

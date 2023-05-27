@@ -11,6 +11,40 @@
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
 
+## Version 1.4.99.2-prerelease - `<Gracias Fitiales>` edition
+
+* Released
+  * 15 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+    * [SpaceY Lifters (SYL)](https://www.curseforge.com/kerbal/ksp-modsSpaceYLifters)
+
+### Change Summary 1.4.99.2
+
+* Add Spanish (Español) Localization
+  * Gracias [Fitiales](https://gitbub.com/Fitiales)
+* improved tags in several parts
+
+### Changes 1.4.99.2
+
+* Localization
+  * Spanish (Español)
+    * Add <es-es.cfg> v1.0.0.0
+    * Gracias [Fitiales](https://gitbub.com/Fitiales)
+* Improved several part tags
+* Issues
+  * closes #101 - SpaceY Expanded (SYX) 1.4.99.2-prerelease `<Gracias Fitiales>` edition
+  * closes #102 - 1.4.99.2 Additional Tasks
+  * closes #43 - Spanish (Español) <es-es.cfg>
+  * updates #39 - Localization - Master
+  * updates #104 - [BUG] BFR tanks have texture issue
+
+---
+
 ## Version 1.4.99.1-prerelease - `<Thank you NecroBones>` edition
 
 * Released

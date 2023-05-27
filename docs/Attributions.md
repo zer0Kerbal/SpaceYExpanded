@@ -5,10 +5,10 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.5.0.0
+Attributions.md v1.5.1.0
 SpaceY Expanded (SYX)
 created: 17 Jan 2023
-updated: 11 May 2023
+updated: 15 May 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -57,6 +57,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png" alt="Spanish (Español)" style="zoom:100%" > Spanish (Español)</a> ¡Gracias <a href="https://github.com/Fitiales" alt="Fitiales">Fitiales!</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
