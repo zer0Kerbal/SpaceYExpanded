@@ -1,21 +1,20 @@
-<!-- readme.md v1.4.99.1
+<!-- readme.md v1.4.99.3
 SpaceY Expanded (SYX)
 created: 01 Jan 2023
-updated: 30 Mar 2023
+updated: 26 Jun 2023
 
-TEMPLATE: readme.md v1.7.1.0
+TEMPLATE: readme.md v1.7.4.2
 created: 17 Jul 2017
-updated: 15 Mar 2023
+updated: 18 Jun 2023
 
-<!--THIS FILE: CC BY-ND 4.0 by zer0Kerbal-->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [SpaceY Expanded (SYX)][CURSFG:url]
 
 [![SpaceY Expanded (SYX)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
 ![Code][SHD:cde] ![SpaceY.Expanded.dll][SHD:dll]
-
-# [SpaceY Expanded (SYX)][CURSFG:url]
 
 An expansion pack for the [SpaceY Lifters (SYL)][SYL] parts addon which adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters. **Requires both [SpaceY Corp (SYC)][SYC] and [SpaceY Lifters (SYL)][SYL].
 
@@ -61,21 +60,22 @@ send a private message to ~~NecroBones~~ [zer0Kerbal][zer0Kerbal] on the [forums
 <details>
   <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
 
->Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-
-[![KSP Mods - SpaceY Expanded](https://img.youtube.com/vi/IFyvwflW3a4/0.jpg)](https://youtu.be/IFyvwflW3a4)
+> Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+>
+> [![KSP Mods - SpaceY Expanded](https://img.youtube.com/vi/IFyvwflW3a4/0.jpg)](https://youtu.be/IFyvwflW3a4)
 </details>
 
 <details>
-  <summary><img src="https://duckduckgo.com/i/fe0eb4d1.png" alt="Imgur logo" height="33px" width="66px"></summary>
+  <summary><img src="https://duckduckgo.com/i/fe0eb4d1.png" alt="Imgur logo" height="25px" ></summary>
 
 ![Imgur Album](https://imgur.com/a/fOIMg) Large rocketry parts, particularly 7.5m diameter, and accessories.
 </details>
 
 ### Localization
 
->* ![English][EN] English
->* ![Spanish (Español)][ES] Spanish (Español) - Gracias [Fitiales](https://github.com/Fitiales)
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png) English
+>* ![Spanish (Español)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png) Spanish (Español) - gracias [Fitiales](https://github.com/Fitiales)
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
 >* ***your translation here***
 
 ### Help Wanted
@@ -85,7 +85,7 @@ send a private message to ~~NecroBones~~ [zer0Kerbal][zer0Kerbal] on the [forums
 > * Contracts for these glorious parts
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -96,66 +96,83 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [SpaceY Corporation (SYC)][SYC]
-* [SpaceY Launchers (SYL)][SYL]
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://curseforge.com/kerbal/ksp-mods/SpaceYCorp)
+    * [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters)
+    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
 
 ### Recommends
 
-* [Docking Port Descriptions (DPD)][DPD]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Kaboom! (BOOM)][BOOM]
-* [On Demand Fuel Cells (ODFC)][ODFC]
+* [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+* [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom)
+* [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
 
 ### Suggests
 
-* [Adjustable Mod Panel (KAMP)][KAMP]
-* [Biomatic (BIO)][BIO]
-* [Drop Tanks (DROP)][DROP]
-* [Drop Tanks III (DTIII)][DTIII]
-* [Exception Detector (EXCD)][EXCD]
-* [Field Training Facility (FTF)][FTF]
-* [Field Training Lab (FTL)][FTL]
-* [Goo Pumps & Oils' (GPO) Speed Pump (GPO)][GPO]
-* [Mkerb Science Instruments][MSI]
-* [Near Future Rovers (NFR)][NFR]
-* [OhScrap! (OHS)][OHS]
-* [OScience Laboratories (OSL)][OSL]
-* [Papa Kerballini's Pizza (PIZZA)][PIZZA]
-* [Precise Maneuver (PM)][PM]
-* [Pteron (MSRV)][MSRV]
-* [ScrapYard (SYD)][SYD]
-* [SimpleConstruction! (SCON)][SCON]
-* [SimpleLogistics! (SLOG)][SLOG]
-* [SimpleNotes! (NOTE)][NOTES]
-* [Solar Science (SOL)][SOL]
+* [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
+* [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
+* [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
+* [Coyote Cargo Freighter (CCF)](https://curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter)
+* [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+* [Field Training Facility (FTF)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
+* [Field Training Lab (FTL)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
+* [MoarKerbals (MOAR)](https://curseforge.com/kerbal/ksp-mods/MoarKerbals)
+* [Near Future Rovers (NFR)](https://curseforge.com/kerbal/ksp-mods/NearFutureRovers)
+* [OhScrap! (OHS)](https://curseforge.com/kerbal/ksp-mods/OhScrap)
+* [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
+* [Pteron (MSRV)](https://curseforge.com/kerbal/Pteron)
+* [ScrapYard (SCRAP)](https://curseforge.com/kerbal/ksp-mods/ScrapYard)
+* [SimpleConstruction! (SCON)](https://curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+  * [Keridian Dynamics Vessel Assembly (KDVA)](https://curseforge.com/kerbal/ksp-mods/KeridianDynamics) <i><small>lots of stockalike parts</small></i>
+  * [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</small></i>
+* [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+* [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
+* [Stock Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Foundations (FND)](https://curseforge.com/kerbal/ksp-mods/Foundations) <small><i>Helps prevent ground constructions from floating away</small></i>
+* Science!
+  * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
+  * [OScience Laboratories (OSL)](https://curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
+  * [Papa Kerballini's Pizza (PIZZA)](https://curseforge.com/kerbal/ksp-mods/Pizza)
+  * [Solar Science (SOL)](https://curseforge.com/kerbal/ksp-mods/SolarScience)
 
-* [NecroBones][auth-link] suite of mods that play nicely together
-  * [Fuel Tanks Plus Ltd (FTPL)][FTPL] large stock-like tanks with Color Coded Canister style
-    * [Fuel Tanks Plus (FTP)][FTP]
-    * [Fuel Tanks Plus Xtra Kerbal (FTPXK)][FTPXK]
-    * [Fuel Tanks Plus IS (FTPIS)][FTPIS]
-  * [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
-  * [The Burger Mod (BURG)][BURG]
-  * [Joolian Discovery (JOOL)][JOOL]
-  * [The Elephant Engine (ELEP)][ELEP]
-  * [Modular Rocket Systems (MRS)][MRS] stock-alike parts pack, NASA-like alternatives, and filling the gaps
-  * [Module Rocket Systems LITE version (MSRL)][MRSL]
-  * [Color Coded Canisters (CCC)][CCC] beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
-  * [ColorFuel Lines (CFL)][CFL] color-selectable fuel lines
-  * [SeaDragon (SEA)][SEA]
+* [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/) suite of mods that play nicely together
+  * [Lithobrake Exploration Technologies (LET)](https://curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) lander parts, large chutes/legs/ladders/etc
+  * [SpaceY Corporation (SYC)](https://curseforge.com/kerbal/ksp-mods/SpaceYCorp)
+    * [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) stock-balanced large rocket parts, 5m parts, large SRBs
+    * [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
+  * [Color Coded Canisters (CCC)](https://curseforge.com/kerbal/ksp-mods/ColorCodedCanisters) beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
+  * [ColorFuel Lines (CFL)](https://curseforge.com/kerbal/ksp-mods/ColorfulFuelLines) color-selectable fuel lines
+  * [Joolian Discovery (JOOL)](https://curseforge.com/kerbal/ksp-mods/JoolianDiscovery)
+  * [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems) stock-alike parts pack, NASA-like alternatives, and filling the gaps
+  * [Modular Rocket Systems LITE (MRSL)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite)
+  * [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)
+  * [The Burger Mod (BURG)](https://curseforge.com/kerbal/ksp-mods/BurgerMod)
+  * [The Elephant Engine (ELEP)](https://curseforge.com/kerbal/ksp-mods/ElephantEngine)
+  * The collection of [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd) large stock-like tanks with Color Coded Canister style:
+    * [Fuel Tanks Plus (FTP)](https://curseforge.com/kerbal/ksp-mods/FuelTanksPlus)
+    * [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
+    * [Fuel Tanks Plus IS (FTPIS)](https://curseforge.com/kerbal/ksp-mods/FTPIS)
 
 ### Supports
 
-* [Community Tech Tree (CTT)][ctt]
-* [Connected Living Space (CLS)][cls]
-* [CryoEngines (cryo)][cryo]
-* [Default Action Groups (DAG)][dag] enables automatic toggling of SAS on reaction wheels
-* [Engine Ignitor][ign]
-* [HotRockets!][hotr]
-* [ModularManagement (MM)][MM] or [Module Manager][m-m]
-* [NEAR-FAR][far]
-* [TweakScale (twk)][twk]
+* [Community Tech Tree (ctt)](https://legacy.curseforge.com/kerbal/ksp-mods/community-tech-tree)
+* [Connected Living Space (CLS)](https://curseforge.com/kerbal/ksp-mods/connectedlivingspace)
+* [CryoEngines (cryo)](https://forum.kerbalspaceprogram.com/threads/117766-*/)
+* [Default Action Groups (DAG)](http://forum.kerbalspaceprogram.com/index.php?/topic/125832-*/) enables automatic toggling of SAS on reaction wheels
+* [Engine Ignitor (ign)](https://forum.kerbalspaceprogram.com/index.php?/topic/168424-*/)
+* [Ferram Aerospace Research (far)](https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/) NEAR-FAR
+* [HotRockets! (hot)](https://curseforge.com/kerbal/ksp-mods/hotrockets-particle-fx-replacement)
+* [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+* [RemoteTech (RT)](https://remotetechnologiesgroup.github.io/RemoteTech/)
+* [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
+* Fuel Switchers:
+  * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
+  <!-- * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter) -->
+  <!-- * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch) -->
+  * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
+  <!-- * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/*) -->
 
 ### Tags
 
@@ -177,12 +194,12 @@ parts, config
 
 #### Author (1) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
-#### Original (ROOT) (0) - Author: [NecroBones][auth-link]
+#### Original Author (ROOT) (0): [NecroBones][auth-link]
 
-> Forum: [Thread][0:thd] - Download: [SpaceDock][0:dld] - Source: [CurseForge][0:src]  
+> Forum: [Thread][0:thr] - Download: [SpaceDock][0:dld] - Source: [CurseForge][0:src]  
 > License: [![License][0:shd]][0:url] ![License][0:log]
 
 #### Disclaimer(s)
@@ -192,7 +209,7 @@ parts, config
 >
 >* see [Notices][notic] for more *legal Mumbo Jumbo*
 
-### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
+### How to support this and other great mods by [`zer0Kerbal`][zedk]
 
 Comment, click, like, share, up-vote, subscribe
 
@@ -222,9 +239,13 @@ Comment, click, like, share, up-vote, subscribe
 [0:dld]: https://spacedock.info/mod/89 "SpaceDock"
 [0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+
 [0:src]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded "CurseForge"
-[0:thd]: https://forum.kerbalspaceprogram.com/index.php?/topic/120012-*/ "KSP Forum"
+[0:thr]: https://forum.kerbalspaceprogram.com/index.php?/topic/120012-*/ "KSP Forum"
 [0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+
+[LIC:sp:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
+[LIC:sp:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
 <!--- license provenance -->
 [LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
@@ -243,57 +264,8 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
-[BIO]: https://www.curseforge.com/kerbal/ksp-mods/Biomatic "Biomatic (BIO)"
-[BOOM]: https://www.curseforge.com/kerbal/ksp-mods/Kaboom "Kaboom! (BOOM)"
-[DPD]: https://www.curseforge.com/kerbal/ksp-mods/DockingPortDescriptions "Docking Port Descriptions"
-[DROP]: https://www.curseforge.com/kerbal/ksp-mods/DropTanks "Drop Tanks (DROP)"
-[DTIII]: https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII "Drop Tanks III (DTIII)"
-[EXCD]: https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector "Exception Detector (EXCD)"
-[FTF]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility "Field Training Facility (FTF)"
-[FTL]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab "Field Training Lab (FTL)"
-[GPO]: https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump "GPO SpeedPump (GPO)"
-[KAMP]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel "Adjustable Mod Panel (KAMP)"
-[MSI]: https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments "Mkerb Science Instruments (MSI)"
-[MSRV]: https://www.curseforge.com/kerbal/Pteron "Pteron (MSRV)"
-[NFR]: https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers "Near Future Rovers (NFR)"
-[NOTES]: https://www.curseforge.com/kerbal/ksp-mods/Notes "SimpleNotes! (NOTES)"
-[ODFC]: https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells "On Demand Fuel Cells (ODFC)"
-[OHS]: https://www.curseforge.com/kerbal/ksp-mods/OhScrap "OhScrap (OHS)"
-[OSL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/ "OScience Laboratories (OSL)"
-[PIZZA]: https://www.curseforge.com/kerbal/ksp-mods/Pizza "Papa Kerballini's Pizza (PIZZA)"
-[PM]: https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver "Precise Maneuver (PM)"
-[SCON]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
-[SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
-[SOL]: https://www.curseforge.com/kerbal/ksp-mods/SolarScience "Solar Science (SOL)"
-[SYD]: https://www.curseforge.com/kerbal/ksp-mods/ScrapYard "ScrapYard (SYD)"
-
-[BURG]: https://www.curseforge.com/kerbal/ksp-mods/burgermod "The Burger Mod (BURG)"
-[CCC]: https://www.curseforge.com/kerbal/ksp-mods/colorcodedcanisters "Color Coded Canisters (CCC)"
-[CFL]: https://spacedock.info/mod/94 "Colorful Fuel Lines (CFL)"
-[ELEP]: https://www.curseforge.com/kerbal/ksp-mods/elephantengine "The Elephant Engine"
-[JOOL]: https://www.curseforge.com/kerbal/ksp-mods/jooliandiscovery "Joolian Discovery (JOOL)"
-[LET]: https://www.curseforge.com/kerbal/ksp-mods/lithobrakeexplorationtechnologies "Lithobrake Exploration Technologies (LET)"
-[MRS]: https://www.curseforge.com/kerbal/ksp-mods/modularrocketsystems "Modular Rocket Systems (MRS)"
-[MRSL]: https://www.curseforge.com/kerbal/ksp-mods/modularrocketsystemslite "Modular Rocket Systems LITE (MRSL)"
-[SEA]:  https://www.curseforge.com/kerbal/ksp-mods/SeaDragon "SeaDragon (SEA)"
-[SYC]:  https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation "SpaceY Corporation (SYC)"
-[SYL]:  https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "SpaceY Lifters (SYL)"
-
-[FTPL]: https://www.curseforge.com/kerbal/ksp-mods/ftpltd "Fuel Tanks Plus Ltd (FTPL)"
-[FTP]: https://www.curseforge.com/kerbal/ksp-mods/ftp "Fuel Tanks Plus (FTP)"
-[FTPXK]: https://www.curseforge.com/kerbal/ksp-mods/ftpltd "Fuel Tanks Plus XL (FTPXK)"
-[FTPIS]: https://www.curseforge.com/kerbal/ksp-mods/ftpis "Fuel Tanks Plus IS (FTPIS)"
-
-[cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space (CLS)"
-[cryo]:  https://forum.kerbalspaceprogram.com/threads/117766-*/ "CryoEngines (cryo)"
-[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree (CTT)"
-[dag]: http://forum.kerbalspaceprogram.com/index.php?/topic/125832-*/ "DefaultActionGroups (DAG)"
-[ign]: https://forum.kerbalspaceprogram.com/index.php?/topic/168424-*/ "Engine Ignitor"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[hotr]: http://forum.kerbalspaceprogram.com/threads/65754-*/ "HotRockets!"
-[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
+[SYC]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation "SpaceY Corporation (SYC)"
+[SYL]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "SpaceY Lifters (SYL)"
 
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones/Orvidius"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
@@ -303,12 +275,6 @@ Comment, click, like, share, up-vote, subscribe
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
@@ -322,4 +288,4 @@ Comment, click, like, share, up-vote, subscribe
 
 Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/SpaceYExpanded/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br>
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zedk] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br>
