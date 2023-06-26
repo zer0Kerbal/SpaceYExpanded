@@ -11,6 +11,56 @@
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
 
+## Version 1.4.99.3-prerelease - `<Спасибо evanisrael>` edition
+
+![Code][SHD:cde] ![SpaceY.Expanded.dll][SHD:dll]
+
+* Released
+  * 25 May 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)
+    * [SpaceY Lifters (SYL)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters)
+  * search for `syx` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing.
+    * This file will not be active for v1.5.0.0-release.
+    * Can be disabled/deleted if installing this addon into a new save
+
+### Change Summary 1.4.99.3
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+#### Localization 1.4.99.3
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #43 - Spanish (Español) <es-es.cfg>
+* updates #39 - Localization - Master
+
+#### Documentation 1.4.99.3
+
+* Update
+  * [Attributions.md] v1.5.2.0
+  * [Localizations.md] v1.5.2.0
+  * [readme.md] v1.4.99.3
+  * [ReleaseLayout.md] 1.4.99.3
+
+---
+
 ## Version 1.4.99.2-prerelease - `<Gracias Fitiales>` edition
 
 * Released
