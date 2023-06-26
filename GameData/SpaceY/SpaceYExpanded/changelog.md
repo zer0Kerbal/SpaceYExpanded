@@ -1,15 +1,104 @@
-
 # Changelog  
   
-| modName    | SpaceY Expanded (SYX)                                             |
+| modName    | SpaceY Expanded (SYX) by NecroBones                               |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
+| license    | CC-BY-NC-SA-4.0+ARR                                               |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211576-*/) |
 | github     | (https://github.com/zer0Kerbal/SpaceYExpanded)                    |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded)       |
 | spacedock  | (https://spacedock.info/mod/89)                                   |
 | ckan       | SpaceYExpanded                                                    |
+
+## Version 1.4.99.3-prerelease - `<Block III: Спасибо evanisrael>` edition
+
+* Released
+  * 26 Jun 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)
+    * [SpaceY Lifters (SYL)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters)
+  * search for `syx` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing.
+    * This file will not be active for v1.5.0.0-release.
+    * Can be disabled/deleted if installing this addon into a new save
+
+### Change Summary 1.4.99.3
+
+* Add `B9Fuelswitch` compatibility (experimental)
+* Update nodes and drag_cubes in all Couplings and Engines
+* `BFR9 "Omega-Ratite" Engine Cluster`
+  * fix broken link in effects and add missing attach nodes
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 1.4.99.3
+
+#### Assets 1.4.99.3
+
+* First attempt to fix
+  * SpaceY Lifters
+    * Re-encoded [SYtank7m-Specular.dds]
+* updates #104 - [BUG] BFR tanks have texture issue
+
+#### Parts 1.4.99.3
+
+* Correct
+  * [syx-eng-750-R9.cfg] v1.5.1.0
+  * fix broken link in effects
+  * add missing attach nodes
+
+#### Compatibility 1.4.99.3
+
+* Add
+  * [B9Fuelswitch.cfg] v1.0.0.0
+  * Experimental
+
+#### Config 1.4.99.3
+
+* Update
+  * [SpaceYExpanded.cfg v1.0.2.0]
+    * correct :NEEDS :FOR
+
+#### Localization 1.4.99.3
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [en-us.cfg] v1.0.1.0
+  * [es-es.cfg] v1.0.1.0
+  * [ru.cfg] v1.0.1.0
+    * add header, give credit
+* closes #47 - Russian (Русский) <ru.cfg>
+* updates #40 - English <en-us.cfg>
+* updates #43 - Spanish (Español) <es-es.cfg>
+* updates #39 - Localization - Master
+
+#### Documentation 1.4.99.3
+
+* Update
+  * [Attributions.md] v1.5.2.0
+  * [Localizations.md] v1.5.2.0
+  * [readme.md] v1.4.99.3
+  * [ReleaseLayout.md] 1.4.99.3
+
+### Status 1.4.99.3
+
+* Issues
+  * closes #109 - SpaceY Expanded (SYX) 1.4.99.3-prerelease `<Block III: Спасибо evanisrael>` edition
+  * closes #110 - 1.4.99.3 Additional Tasks
+
+---
 
 ## Version 1.4.99.2-prerelease - `<Gracias Fitiales>` edition
 

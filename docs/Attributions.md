@@ -5,10 +5,10 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.5.1.0
+Attributions.md v1.5.2.0
 SpaceY Expanded (SYX)
 created: 17 Jan 2023
-updated: 15 May 2023
+updated: 26 Jun 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -57,7 +57,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png" alt="Spanish (Español)" style="zoom:100%" > Spanish (Español)</a> ¡Gracias <a href="https://github.com/Fitiales" alt="Fitiales">Fitiales!</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png" alt="Spanish (Español)" style="zoom:100%" > Spanish (Español)</a> gracias <a href="https://github.com/Fitiales" alt="Fitiales">Fitiales</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
@@ -66,7 +67,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <ul>
   <li>NBZ, for lots of input, ideas, part names, and art feedback.</li>
   <li>Akira_R & 4nxs, for their HotRockets configuration work to add variation between vacuum/atmo effects.</li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
 </ul>
