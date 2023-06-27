@@ -129,7 +129,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</small></i>
 * [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
-* [Stock Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Stack Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
 * [Foundations (FND)](https://curseforge.com/kerbal/ksp-mods/Foundations) <small><i>Helps prevent ground constructions from floating away</small></i>
 * Science!
   * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
